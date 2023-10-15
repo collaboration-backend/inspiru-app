@@ -1,0 +1,45 @@
+
+n
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ð™á
+n
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ð™á
+h
+java:S1192("MDefine a constant instead of duplicating this literal " subscribers" 4 times.(‹Žš…øÿÿÿÿ
+P
+java:S1141`"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+r
+java:S26297"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(’ì®‡
+r
+java:S2629?"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ù£Õ®
+w
+java:S2629P"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(þâóÖúÿÿÿÿ
+r
+java:S2629Q"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Éó”‰
+r
+java:S2629Z"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ù£Õ®
+w
+java:S2629g"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(þâóÖúÿÿÿÿ
+r
+java:S2629h"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Éó”‰
+\
+java:S3457("AFormat specifiers should be used instead of string concatenation.(‹Žš…øÿÿÿÿ
+W
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(Äìëæ
+\
+java:S34572"AFormat specifiers should be used instead of string concatenation.(èËñïûÿÿÿÿ
+W
+java:S34577"AFormat specifiers should be used instead of string concatenation.(’ì®‡
+W
+java:S3457?"AFormat specifiers should be used instead of string concatenation.(Ù£Õ®
+\
+java:S3457P"AFormat specifiers should be used instead of string concatenation.(þâóÖúÿÿÿÿ
+W
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(Éó”‰
+W
+java:S3457Z"AFormat specifiers should be used instead of string concatenation.(Ù£Õ®
+\
+java:S3457g"AFormat specifiers should be used instead of string concatenation.(þâóÖúÿÿÿÿ
+W
+java:S3457h"AFormat specifiers should be used instead of string concatenation.(Éó”‰
+q
+java:S3923t"[Remove this conditional structure or edit its code blocks so that they're not all the same.(™õ‡ž

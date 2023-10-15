@@ -1,0 +1,26 @@
+
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(™¦ò¢üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÉÊÃùÿÿÿÿ
+2
+java:S1643Q"Use a StringBuilder instead.(ÓµµÙ
+
+java:S1488+"fImmediately return this expression instead of assigning it to the temporary variable "decryptedValue".(ª“…ôùÿÿÿÿ
+v
+java:S1488J"[Immediately return this expression instead of assigning it to the temporary variable "key".(ê‘£úÿÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.( ´Â
+2
+java:S5542"Use a secure padding scheme.(Ûè¬
+2
+java:S5542'"Use a secure padding scheme.(Ûè¬
+^
+java:S57388"HRemove this call to a deprecated method, it has been marked for removal.(›ôÜ‡
+>	java:S1089")Either remove or fill this block of code.(”ı¾
+>	java:S108C")Either remove or fill this block of code.(”ı¾
+‡
+java:S1130I"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(™¦ò¢üÿÿÿÿ
+Q
+java:S6437J"6Revoke and change this password, as it is compromised.(ê‘£úÿÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'org.apache.commons.io.FilenameUtils'.(éì¢óûÿÿÿÿ

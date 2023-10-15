@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <h2>Login Form</h2>
+	<div th:if="${param.error}">
+		<p class="text-danger">[[${session.SPRING_SECURITY_LAST_EXCEPTION.message}]]</p>
+	</div>
+
+	<div class="container">
+		<form th:action="@{/login}" method="post">
+			<div class="row">
+				<h2 style="text-align:center">Login with Social Media or Manually</h2>
+				<div class="vl">
+					<span class="vl-innertext">or</span>
+				</div>
+
+				<div class="col">
+					<a href="#" class="fb btn">
+						<i class="fa fa-facebook fa-fw"></i> Login with Facebook
+					</a>
+					<a href="#" class="twitter btn">
+						<i class="fa fa-twitter fa-fw"></i> Login with Twitter
+					</a>
+					<a href="#" class="google btn"><i class="fa fa-google fa-fw">
+						</i> Login with Google+
+					</a>
+				</div>
+
+				<div class="col">
+					<div class="hide-md-lg">
+						<p>Or sign in manually:</p>
+					</div>
+
+					<input type="text" name="username" placeholder="Username">
+					<input type="password" name="password" placeholder="Password">
+					<input type="submit" value="Login">
+				</div>
+
+			</div>
+		</form>
+	</div>
+
+	<div class="bottom-container">
+		<div class="row">
+			<div class="col">
+				<a href="#" style="color:white" class="btn">Sign up</a>
+			</div>
+			<div class="col">
+				<a href="#" style="color:white" class="btn">Forgot password?</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

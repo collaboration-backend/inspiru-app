@@ -1,0 +1,1570 @@
+[
+  {
+    "id": 1,
+    "name": "Buenos Aires",
+    "nameAr": "بوينس آيرس",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 2,
+    "name": "Cordoba",
+    "nameAr": "كوردوبا",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 3,
+    "name": "Rosario",
+    "nameAr": "روساريو",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 4,
+    "name": "Mendoza",
+    "nameAr": "ميندوزا",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 5,
+    "name": "La Plata",
+    "nameAr": " لا بلاتا",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 6,
+    "name": "Tucuman",
+    "nameAr": "توكومان",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 7,
+    "name": "Mar del Plata",
+    "nameAr": "مار ديل بلاتا",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 8,
+    "name": "Salta",
+    "nameAr": "سالتا",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 9,
+    "name": "Neuquen",
+    "nameAr": "نيوكين",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 10,
+    "name": "Santa Fe",
+    "nameAr": "سانتا في",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 11,
+    "name": "Bariloche",
+    "nameAr": "باريلوش",
+    "stateCode": "B",
+    "countryCode": "AR"
+  },
+  {
+    "id": 12,
+    "name": "Manama",
+    "nameAr": "المنامة",
+    "stateCode": "B",
+    "countryCode": "BH"
+  },
+  {
+    "id": 13,
+    "name": "Muharraq",
+    "nameAr": "المحرق",
+    "stateCode": "B",
+    "countryCode": "BH"
+  },
+  {
+    "id": 14,
+    "name": "Riffa",
+    "nameAr": "الرفاع",
+    "stateCode": "B",
+    "countryCode": "BH"
+  },
+  {
+    "id": 15,
+    "name": "Hamad Town",
+    "nameAr": "مدينة حمد",
+    "stateCode": "B",
+    "countryCode": "BH"
+  },
+  {
+    "id": 16,
+    "name": "Isa Town",
+    "nameAr": "مدينة عيسى",
+    "stateCode": "B",
+    "countryCode": "BH"
+  },
+  {
+    "id": 17,
+    "name": "Sao Paulo",
+    "nameAr": "ساو باولو",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 18,
+    "name": "Rio de Janeiro",
+    "nameAr": "ريو دي جانيرو",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 19,
+    "name": "Brasilia",
+    "nameAr": "برازيليا",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 20,
+    "name": "Salvador",
+    "nameAr": "سلفادور",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 21,
+    "name": "Recife",
+    "nameAr": "ريسيفي",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 22,
+    "name": "Fortaleza",
+    "nameAr": "فورتاليزا",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 23,
+    "name": "Belo Horizonte",
+    "nameAr": "بيلو هوريزونتي",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 24,
+    "name": "Porto Alegre",
+    "nameAr": "بورتو أليغري",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 25,
+    "name": "Curitiba",
+    "nameAr": "كوريتيبا",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 26,
+    "name": "Florianopolis",
+    "nameAr": "فلوريانوبوليس",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 27,
+    "name": "Natal",
+    "nameAr": "ناتال",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 28,
+    "name": "Belem",
+    "nameAr": "بيليم",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 29,
+    "name": "Manaus",
+    "nameAr": "ماناوس",
+    "stateCode": "B",
+    "countryCode": "BR"
+  },
+  {
+    "id": 30,
+    "name": "Toronto",
+    "nameAr": "تورنتو",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 31,
+    "name": "Vancouver",
+    "nameAr": "فانكوفر",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 32,
+    "name": "Montreal",
+    "nameAr": "مونتريال",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 33,
+    "name": "Calgary",
+    "nameAr": "كالجاري",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 34,
+    "name": "Ottawa",
+    "nameAr": "أوتاوا",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 35,
+    "name": "Edmonton",
+    "nameAr": "إدمونتون",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 36,
+    "name": "Halifax",
+    "nameAr": "هاليفاكس",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 37,
+    "name": "Winnipeg",
+    "nameAr": "وينيبيغ",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 38,
+    "name": "Quebec City",
+    "nameAr": "مدينة كيبيك",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 39,
+    "name": "Victoria",
+    "nameAr": "فيكتوريا",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 40,
+    "name": "Saskatoon",
+    "nameAr": "ساسكاتون",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 41,
+    "name": "Regina",
+    "nameAr": "ريجينا",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 42,
+    "name": "London (Ontario)",
+    "nameAr": "لندن (أونتاريو)",
+    "stateCode": "B",
+    "countryCode": "CA"
+  },
+  {
+    "id": 43,
+    "name": "Santiago",
+    "nameAr": "سانتياغو",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 44,
+    "name": "Valparaiso",
+    "nameAr": "فالبارايسو",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 45,
+    "name": "Concepcion",
+    "nameAr": "كونسيبسيون",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 46,
+    "name": "La Serena",
+    "nameAr": "لا سيرينا",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 47,
+    "name": "Vina del Mar",
+    "nameAr": " فينا ديل مار",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 48,
+    "name": "Antofagasta",
+    "nameAr": " أنتوفاغستا",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 49,
+    "name": "Temuco",
+    "nameAr": "تيموكو",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 50,
+    "name": "Punta Arenas",
+    "nameAr": " بونتا آريناس",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 51,
+    "name": "Rancagua",
+    "nameAr": "رانكاجوا",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 52,
+    "name": "Iquique",
+    "nameAr": "إيكيكويك",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 53,
+    "name": "Arica",
+    "nameAr": "آريكا",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 54,
+    "name": "Puerto Montt",
+    "nameAr": "بويرتو مونت",
+    "stateCode": "B",
+    "countryCode": "CL"
+  },
+  {
+    "id": 55,
+    "name": "Bogota",
+    "nameAr": "بوغوتا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 56,
+    "name": "Medellin",
+    "nameAr": "ميدلين",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 57,
+    "name": "Cali",
+    "nameAr": "كالي",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 58,
+    "name": "Barranquilla",
+    "nameAr": " بارانكيلا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 59,
+    "name": "Cartagena",
+    "nameAr": "كارتاخينا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 60,
+    "name": "Pereira",
+    "nameAr": "بيريرا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 61,
+    "name": "Bucaramanga",
+    "nameAr": " بوكارامانغا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 62,
+    "name": "Santa Marta",
+    "nameAr": "سانتا مارتا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 63,
+    "name": "Villavicencio",
+    "nameAr": "فييافيسنسيو",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 64,
+    "name": "Manizales",
+    "nameAr": "مانيزاليس",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 65,
+    "name": "Cucuta",
+    "nameAr": "كوكوتا",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 66,
+    "name": "Pasto",
+    "nameAr": "باستو",
+    "stateCode": "B",
+    "countryCode": "CO"
+  },
+  {
+    "id": 67,
+    "name": "Paris",
+    "nameAr": "باريس",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 68,
+    "name": "Marseille",
+    "nameAr": "مرسيليا",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 69,
+    "name": "Lyon",
+    "nameAr": "ليون",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 70,
+    "name": "Toulouse",
+    "nameAr": "تولوز",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 71,
+    "name": "Nice",
+    "nameAr": "نيس",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 72,
+    "name": "Bordeaux",
+    "nameAr": "بوردو",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 73,
+    "name": "Strasbourg",
+    "nameAr": "ستراسبورغ",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 74,
+    "name": "Lille",
+    "nameAr": "ليل",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 75,
+    "name": "Nantes",
+    "nameAr": "نانت",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 76,
+    "name": "Montpellier",
+    "nameAr": "مونبلييه",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 77,
+    "name": "Cannes",
+    "nameAr": "كان",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 78,
+    "name": "Biarritz",
+    "nameAr": "بياريتز",
+    "stateCode": "B",
+    "countryCode": "FR"
+  },
+  {
+    "id": 79,
+    "name": "Berlin",
+    "nameAr": "برلين",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 80,
+    "name": "Munich",
+    "nameAr": "ميونخ",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 81,
+    "name": "Hamburg",
+    "nameAr": "هامبورج",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 82,
+    "name": "Frankfurt",
+    "nameAr": "فرانكفورت",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 83,
+    "name": "Cologne",
+    "nameAr": "كولونيا",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 84,
+    "name": "Stuttgart",
+    "nameAr": "شتوتجارت",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 85,
+    "name": "Dusseldorf",
+    "nameAr": "دوسلدورف",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 86,
+    "name": "Dortmund",
+    "nameAr": "دورتموند",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 87,
+    "name": "Essen",
+    "nameAr": "إسن",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 88,
+    "name": "Leipzig",
+    "nameAr": "لايبزيغ",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 89,
+    "name": "Nuremberg",
+    "nameAr": "نورنبرغ",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 90,
+    "name": "Heidelberg",
+    "nameAr": "هايدلبرج",
+    "stateCode": "B",
+    "countryCode": "DE"
+  },
+  {
+    "id": 91,
+    "name": "Rome",
+    "nameAr": "روما",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 92,
+    "name": "Milan",
+    "nameAr": "ميلانو",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 93,
+    "name": "Florence",
+    "nameAr": "فلورنسا",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 94,
+    "name": "Naples",
+    "nameAr": "نابولي",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 95,
+    "name": "Venice",
+    "nameAr": "البندقية",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 96,
+    "name": "Turin",
+    "nameAr": "تورينو",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 97,
+    "name": "Bologna",
+    "nameAr": "بولونيا",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 98,
+    "name": "Genoa",
+    "nameAr": "جنوة",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 99,
+    "name": "Palermo",
+    "nameAr": "باليرمو",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 100,
+    "name": "Catania",
+    "nameAr": "كاتانيا",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 101,
+    "name": "Pisa",
+    "nameAr": "بيزا",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 102,
+    "name": "Siena",
+    "nameAr": "سيينا",
+    "stateCode": "B",
+    "countryCode": "IT"
+  },
+  {
+    "id": 103,
+    "name": "Kuwait City",
+    "nameAr": "مدينة الكويت",
+    "stateCode": "B",
+    "countryCode": "KW"
+  },
+  {
+    "id": 104,
+    "name": "Al Ahmadi",
+    "nameAr": "الأحمدي",
+    "stateCode": "B",
+    "countryCode": "KW"
+  },
+  {
+    "id": 105,
+    "name": "Hawally",
+    "nameAr": "حولي",
+    "stateCode": "B",
+    "countryCode": "KW"
+  },
+  {
+    "id": 106,
+    "name": "Salmiya",
+    "nameAr": "السالمية",
+    "stateCode": "B",
+    "countryCode": "KW"
+  },
+  {
+    "id": 107,
+    "name": "Jahra",
+    "nameAr": "الجهراء",
+    "stateCode": "B",
+    "countryCode": "KW"
+  },
+  {
+    "id": 108,
+    "name": "Mexico City",
+    "nameAr": "مدينة المكسيك",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 109,
+    "name": "Guadalajara",
+    "nameAr": "جوادالاخارا",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 110,
+    "name": "Monterrey",
+    "nameAr": "مونتيري",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 111,
+    "name": "Cancun",
+    "nameAr": "كانكون",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 112,
+    "name": "Tijuana",
+    "nameAr": "تيخوانا",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 113,
+    "name": "Puebla",
+    "nameAr": "بويبلا",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 114,
+    "name": "Queretaro",
+    "nameAr": "كويريتارو",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 115,
+    "name": "Leon",
+    "nameAr": "ليون",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 116,
+    "name": "Merida",
+    "nameAr": "ميريدا",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 117,
+    "name": "Aguascalientes",
+    "nameAr": "أغواسكالينتيس",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 118,
+    "name": "Mazatlan",
+    "nameAr": "مازاتلان",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 119,
+    "name": "Puerto Vallarta",
+    "nameAr": "بورتو فالارتا",
+    "stateCode": "B",
+    "countryCode": "MX"
+  },
+  {
+    "id": 120,
+    "name": "Amsterdam",
+    "nameAr": "أمستردام",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 121,
+    "name": "Rotterdam",
+    "nameAr": "روتردام",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 122,
+    "name": "The Hague",
+    "nameAr": "لاهاي",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 123,
+    "name": "Utrecht",
+    "nameAr": "أوترخت",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 124,
+    "name": "Groningen",
+    "nameAr": "غرونينجن",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 125,
+    "name": "Eindhoven",
+    "nameAr": "إيندهوفن",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 126,
+    "name": "Maastricht",
+    "nameAr": "ماستريخت",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 127,
+    "name": "Nijmegen",
+    "nameAr": "نايميخن",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 128,
+    "name": "Tilburg",
+    "nameAr": "تيلبورخ",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 129,
+    "name": "Arnhem",
+    "nameAr": "آرنهيم",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 130,
+    "name": "Breda",
+    "nameAr": "بريدا",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 131,
+    "name": "Leiden",
+    "nameAr": "ليدن",
+    "stateCode": "B",
+    "countryCode": "NL"
+  },
+  {
+    "id": 132,
+    "name": "Lima",
+    "nameAr": "ليما",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 133,
+    "name": "Cusco",
+    "nameAr": "كوسكو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 134,
+    "name": "Arequipa",
+    "nameAr": "أريكيبا",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 135,
+    "name": "Trujillo",
+    "nameAr": "تروخيلو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 136,
+    "name": "Chiclayo",
+    "nameAr": "تشيكلايو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 137,
+    "name": "Piura",
+    "nameAr": "بيورا",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 138,
+    "name": "Iquitos",
+    "nameAr": "إيكيتوس",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 139,
+    "name": "Huancayo",
+    "nameAr": "هوانكايو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 140,
+    "name": "Tacna",
+    "nameAr": "تاكنا",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 141,
+    "name": "Huaraz",
+    "nameAr": "هواراز",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 142,
+    "name": "Puno",
+    "nameAr": "بونو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 143,
+    "name": "Ayacucho",
+    "nameAr": "آياكوتشو",
+    "stateCode": "B",
+    "countryCode": "PE"
+  },
+  {
+    "id": 144,
+    "name": "Doha",
+    "nameAr": "الدوحة",
+    "stateCode": "B",
+    "countryCode": "QA"
+  },
+  {
+    "id": 145,
+    "name": "Al Rayyan",
+    "nameAr": "الريان",
+    "stateCode": "B",
+    "countryCode": "QA"
+  },
+  {
+    "id": 146,
+    "name": "Al Wakrah",
+    "nameAr": "الوكرة",
+    "stateCode": "B",
+    "countryCode": "QA"
+  },
+  {
+    "id": 147,
+    "name": "Al Khor",
+    "nameAr": "الخور",
+    "stateCode": "B",
+    "countryCode": "QA"
+  },
+  {
+    "id": 148,
+    "name": "Umm Salal",
+    "nameAr": "أم صلال",
+    "stateCode": "B",
+    "countryCode": "QA"
+  },
+  {
+    "id": 149,
+    "name": "Riyadh",
+    "nameAr": "الرياض",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 150,
+    "name": "Jeddah",
+    "nameAr": "جدة",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 151,
+    "name": "Dammam",
+    "nameAr": "الدمام",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 152,
+    "name": "Mecca",
+    "nameAr": "مكة",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 153,
+    "name": "Medina",
+    "nameAr": "المدينة",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 154,
+    "name": "Khobar",
+    "nameAr": "الخبر",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 155,
+    "name": "Taif",
+    "nameAr": "الطائف",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 156,
+    "name": "Jubail",
+    "nameAr": "الجبيل",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 157,
+    "name": "Yanbu",
+    "nameAr": "ينبع",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 158,
+    "name": "Tabuk",
+    "nameAr": "تبوك",
+    "stateCode": "B",
+    "countryCode": "SA"
+  },
+  {
+    "id": 159,
+    "name": "Madrid",
+    "nameAr": "مدريد",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 160,
+    "name": "Barcelona",
+    "nameAr": "برشلونة",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 161,
+    "name": "Valencia",
+    "nameAr": "فالنسيا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 162,
+    "name": "Seville",
+    "nameAr": "إشبيلية",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 163,
+    "name": "Bilbao",
+    "nameAr": "بلباو",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 164,
+    "name": "Malaga",
+    "nameAr": "مالاغا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 165,
+    "name": "Granada",
+    "nameAr": "غرناطة",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 166,
+    "name": "Zaragoza",
+    "nameAr": "زرقوزة",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 167,
+    "name": "Murcia",
+    "nameAr": "مورسيا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 168,
+    "name": "Palma de Mallorca",
+    "nameAr": "بالما دي مايوركا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 169,
+    "name": "Ibiza",
+    "nameAr": "إيبيزا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 170,
+    "name": "Santiago de Compostela",
+    "nameAr": "سانتياغو دي كومبوستيلا",
+    "stateCode": "B",
+    "countryCode": "ES"
+  },
+  {
+    "id": 171,
+    "name": "Stockholm",
+    "nameAr": "ستوكهولم",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 172,
+    "name": "Gothenburg",
+    "nameAr": "جوتنبرج",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 173,
+    "name": "Malmo",
+    "nameAr": "مالمو",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 174,
+    "name": "Uppsala",
+    "nameAr": "أوبسالا",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 175,
+    "name": "Linkoping",
+    "nameAr": "لينكوبينج",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 176,
+    "name": "Orebro",
+    "nameAr": "أوربرو",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 177,
+    "name": "Vasteras",
+    "nameAr": "فاستيراس",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 178,
+    "name": "Helsingborg",
+    "nameAr": "هيلسينجبوري",
+    "stateCode": "B",
+    "countryCode": "SE"
+  },
+  {
+    "id": 179,
+    "name": "Zurich",
+    "nameAr": "زيورخ",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 180,
+    "name": "Geneva",
+    "nameAr": "جنيف",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 181,
+    "name": "Basel",
+    "nameAr": "بازل",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 182,
+    "name": "Lausanne",
+    "nameAr": "لوزان",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 183,
+    "name": "Bern",
+    "nameAr": "برن",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 184,
+    "name": "Lucerne",
+    "nameAr": "لوسرن",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 185,
+    "name": "St. Gallen",
+    "nameAr": "سانت غالن",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 186,
+    "name": "Lugano",
+    "nameAr": "لوغانو",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 187,
+    "name": "Interlaken",
+    "nameAr": "إنترلاكن",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 188,
+    "name": "Davos",
+    "nameAr": "دافوس",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 189,
+    "name": "Zermatt",
+    "nameAr": "زيرمات",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 190,
+    "name": "Montreux",
+    "nameAr": "مونترو",
+    "stateCode": "B",
+    "countryCode": "CH"
+  },
+  {
+    "id": 191,
+    "name": "London",
+    "nameAr": "لندن",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 192,
+    "name": "Manchester",
+    "nameAr": "مانشستر",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 193,
+    "name": "Birmingham",
+    "nameAr": "برمنغهام",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 194,
+    "name": "Glasgow",
+    "nameAr": "غلاسكو",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 195,
+    "name": "Edinburgh",
+    "nameAr": "إدنبرة",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 196,
+    "name": "Liverpool",
+    "nameAr": "ليفربول",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 197,
+    "name": "Bristol",
+    "nameAr": "بريستول",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 198,
+    "name": "Oxford",
+    "nameAr": "أكسفورد",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 199,
+    "name": "Cambridge",
+    "nameAr": "كامبريدج",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 200,
+    "name": "Leeds",
+    "nameAr": "ليدز",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 201,
+    "name": "Newcastle",
+    "nameAr": "نيوكاسل",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 202,
+    "name": "Belfast",
+    "nameAr": "بيلفاست",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 203,
+    "name": "Cardiff",
+    "nameAr": "كارديف",
+    "stateCode": "B",
+    "countryCode": "GB"
+  },
+  {
+    "id": 204,
+    "name": "New York",
+    "nameAr": "نيويورك",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Los Angeles",
+    "nameAr": "لوس أنجلوس",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Chicago",
+    "nameAr": "شيكاغو",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Houston",
+    "nameAr": "هيوستن",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "San Francisco",
+    "nameAr": "سان فرانسيسكو",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Boston",
+    "nameAr": "بوسطن",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Seattle",
+    "nameAr": "سياتل",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Miami",
+    "nameAr": "ميامي",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Dallas",
+    "nameAr": "دالاس",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Washington",
+    "nameAr": "واشنطن",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "D.C.",
+    "nameAr": "العاصمة",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Atlanta",
+    "nameAr": "أتلانتا",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Austin",
+    "nameAr": "أوستن",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Denver",
+    "nameAr": "دنفر",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Philadelphia",
+    "nameAr": "فيلادلفيا",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Portland",
+    "nameAr": "بورتلاند",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Las Vegas",
+    "nameAr": "لاس فيغاس",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Nashville",
+    "nameAr": "ناشفيل",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "New Orleans",
+    "nameAr": "نيو أورليانز",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "San Diego",
+    "nameAr": "سان دييغو",
+    "stateCode": "B",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Honolulu",
+    "nameAr": "هونولولو",
+    "stateCode": "B",
+    "countryCode": "US"
+  }
+]

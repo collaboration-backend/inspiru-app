@@ -1,0 +1,25 @@
+
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(–öşÿÿÿÿ
+U
+java:S1854=":Remove this useless assignment to local variable "method".(¤‹±›ùÿÿÿÿ
+F
+java:S1481="+Remove this unused "method" local variable.(¤‹±›ùÿÿÿÿ
+\
+java:S1659Š"@Declare "pId" and all following declarations on a separate line.(¯©²‹úÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(”ı¾
+?	java:S108“")Either remove or fill this block of code.(”ı¾
+?	java:S108˜")Either remove or fill this block of code.(”ı¾
+\
+java:S1659´"@Declare "pId" and all following declarations on a separate line.(¯©²‹úÿÿÿÿ
+?	java:S108¸")Either remove or fill this block of code.(”ı¾
+?	java:S108½")Either remove or fill this block of code.(”ı¾
+?	java:S108Â")Either remove or fill this block of code.(”ı¾
+¥
+java:S1130ê"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonGenerationException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¦
+java:S1130ê"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+i
+java:S1172ñ"RRemove these unused method parameters "httpServletRequest", "httpServletResponse".(Í±ê‹
+ğ
+java:S65418"ÔA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¡Ù¡Ù  to Ù¦Ù¤, Complexity from Ù¢Ù¡ to Ù¡Ù¤, Nesting Level from Ù¦ to Ù¢, Number of Variables from Ù£Ù© to Ù¦.(–öşÿÿÿÿ

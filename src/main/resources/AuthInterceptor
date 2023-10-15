@@ -1,0 +1,243 @@
+package com.stc.inspireu.configs;
+
+import java.io.IOException;
+import java.lang.invoke.MethodHandles;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.web.method.HandlerMethod;
+import org.springframework.web.servlet.HandlerInterceptor;
+import org.springframework.web.servlet.HandlerMapping;
+
+import com.fasterxml.jackson.core.JsonGenerationException;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.stc.inspireu.annotations.Authorize;
+import com.stc.inspireu.beans.CurrentPermissionObject;
+import com.stc.inspireu.beans.CurrentUserObject;
+import com.stc.inspireu.models.User;
+import com.stc.inspireu.services.ResourcePermissionService;
+import com.stc.inspireu.services.UserService;
+import com.stc.inspireu.utils.AuthorizeUtil;
+import com.stc.inspireu.utils.PermissionUtil;
+import com.stc.inspireu.utils.ResourceUtil;
+import com.stc.inspireu.utils.ResponseWrapper;
+import com.stc.inspireu.utils.RoleName;
+import com.stc.inspireu.utils.Utility;
+
+@Component
+public class AuthorizationInterceptor implements HandlerInterceptor {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
+
+    @Autowired
+    private Utility utility;
+
+    @Autowired
+    private UserService userService;
+    
+    @Autowired
+    private ResourcePermissionService resourcePermissionService;
+
+    private String urlPrefix = "/api/v1";
+
+    private static final String[] AUTH_WHITELIST = { "/api/v1/auth/*", "/api/v1/startups/registration",
+            "/api/v1/management/registration" };
+
+    @Override
+    public boolean preHandle(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse,
+            Object handler) throws Exception {
+        
+        final Map<String, Object> pathVariables = (Map<String, Object>) httpServletRequest.getAttribute(HandlerMapping.URI_TEMPLATE_VARIABLES_ATTRIBUTE);
+
+        CurrentUserObject currentUserObject = (CurrentUserObject) httpServletRequest.getAttribute("currentUserObject");
+        
+        CurrentPermissionObject currentPermissionObject = new CurrentPermissionObject();
+        httpServletRequest.setAttribute("currentPermissionObject", currentPermissionObject);
+
+        long userId = 0L;
+
+        if (currentUserObject != null && currentUserObject.getUserId() != null) {
+            userId = (long) currentUserObject.getUserId();
+        }
+
+        String requestURI = httpServletRequest.getRequestURI();
+
+        String method = httpServletRequest.getMethod();
+
+        if (utility.isUrlMatch(requestURI, AUTH_WHITELIST)) {
+            return grantAccess(httpServletRequest, httpServletResponse);
+        }
+
+        if (handler instanceof HandlerMethod) {
+
+            HandlerMethod handlerMethod = (HandlerMethod) handler;
+
+            Authorize authorizeAnnotation = handlerMethod.getMethodAnnotation(Authorize.class);
+
+            if (null != authorizeAnnotation) {
+
+                String[] roles = authorizeAnnotation.roles();
+
+                String permission = authorizeAnnotation.permission();
+                
+                String resource = authorizeAnnotation.resource();
+
+                boolean checkRoleUrlScope = authorizeAnnotation.checkRoleUrlScope();
+
+                String logic = authorizeAnnotation.logic();
+                
+                User authObject = userService.getUserRoles(userId);
+                
+                if (authObject != null) {
+                    
+                    CurrentPermissionObject cp1 = new CurrentPermissionObject(authObject.getRole().getId(), authObject.getRole().getRoleName());
+                    httpServletRequest.setAttribute("currentPermissionObject", currentPermissionObject);
+                    
+                    if (authObject.getRole().getRoleName().equals(RoleName.ROLE_SUPER_ADMIN)) {
+                        return grantAccess(httpServletRequest, httpServletResponse);
+                    }
+                }
+
+                if (logic.equals(AuthorizeUtil.roleOrPermission)) {
+
+                    if (!permission.equals("")) {
+
+                        return grantAccess(httpServletRequest, httpServletResponse);
+
+                    } else if (roles.length > 0) {
+
+                        if (authObject != null) {
+
+                            boolean isContain = Arrays.asList(roles).contains(authObject.getRole().getRoleName());
+
+                            if (isContain) {
+
+                                return grantAccess(httpServletRequest, httpServletResponse);
+
+                            }
+
+                            return denyAccess(httpServletRequest, httpServletResponse);
+
+                        }
+
+                        return denyAccess(httpServletRequest, httpServletResponse);
+
+                    } else if (checkRoleUrlScope) {
+
+                        if (utility.isUrlMatch(requestURI, urlPrefix + authObject.getRole().getUrlScope())) {
+
+                            return grantAccess(httpServletRequest, httpServletResponse);
+
+                        }
+
+                        return denyAccess(httpServletRequest, httpServletResponse);
+
+                    }
+
+                    return denyAccess(httpServletRequest, httpServletResponse);
+
+                }
+
+                
+
+                if (roles.length > 0 && !permission.equals("")) {
+                    
+                    if (authObject != null) {
+
+                        boolean isRole = Arrays.asList(roles).contains(authObject.getRole().getRoleName());
+                        
+                        if (isRole) {
+                            
+                            System.out.println("***************************************************************");
+                            
+                            boolean listAcademyRoom = permission.equals(PermissionUtil.list) && resource.equals(ResourceUtil.mar);
+                            
+                            Set<Long> academyRoomIds = new HashSet<Long>();
+                            
+                            if (listAcademyRoom) { // special case for list academy room
+                                
+                                academyRoomIds = resourcePermissionService.getManagementAcademyRoomIds(userId);
+                                
+                                CurrentPermissionObject cpo = new CurrentPermissionObject(authObject.getRole().getId(), authObject.getRole().getRoleName(), academyRoomIds);
+                                
+                                httpServletRequest.setAttribute("currentPermissionObject", cpo);
+                                
+                            }
+                            
+                            boolean listWorkshopSession = permission.equals(PermissionUtil.list) && resource.equals(ResourceUtil.mws);
+                            
+                            if (listWorkshopSession) { // special case for list workshop session
+                                
+                                Long academyRoomId = pathVariables.containsKey("academyRoomId") ? Long.parseLong(pathVariables.get("academyRoomId").toString()) : 0;
+                                
+                                resourcePermissionService.getManagementWorkshopSession(userId, academyRoomId);
+                                
+                                
+                            }
+                            
+                            System.out.println("***************************************************************" + listAcademyRoom + listWorkshopSession);
+
+                            return grantAccess(httpServletRequest, httpServletResponse);
+
+                        }
+
+                        return denyAccess(httpServletRequest, httpServletResponse);
+
+                    }
+
+                    return denyAccess(httpServletRequest, httpServletResponse);
+
+                } else if (checkRoleUrlScope) {
+                    
+                    if (utility.isUrlMatch(requestURI, urlPrefix + authObject.getRole().getUrlScope())) {
+
+                        return grantAccess(httpServletRequest, httpServletResponse);
+
+                    }
+
+                    return denyAccess(httpServletRequest, httpServletResponse);
+
+                }
+
+                return denyAccess(httpServletRequest, httpServletResponse);
+
+            }
+
+            return grantAccess(httpServletRequest, httpServletResponse);
+
+        }
+
+        return notFound(httpServletRequest, httpServletResponse);
+    }
+
+    boolean denyAccess(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse)
+            throws JsonGenerationException, JsonMappingException, IOException {
+        LOGGER.info("AuthorizationInterceptor access denied " + httpServletRequest.getMethod() + " "
+                + utility.getFullURL(httpServletRequest));
+        ResponseWrapper.createResponse403("access denied", "user|authToken", httpServletResponse);
+        return false;
+    }
+
+    boolean grantAccess(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse) {
+        LOGGER.info("AuthorizationInterceptor access granted " + httpServletRequest.getMethod() + " "
+                + utility.getFullURL(httpServletRequest));
+        return true;
+    }
+
+    boolean notFound(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse) {
+        LOGGER.info("AuthorizationInterceptor HandlerMethod not found " + httpServletRequest.getMethod() + " "
+                + utility.getFullURL(httpServletRequest));
+        ResponseWrapper.createResponse404(httpServletResponse);
+        return false;
+    }
+
+}

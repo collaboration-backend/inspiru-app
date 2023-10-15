@@ -1,0 +1,9 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(†Ùñ ýÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ŒÍé‚
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰¸½÷
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(³°–•ýÿÿÿÿ

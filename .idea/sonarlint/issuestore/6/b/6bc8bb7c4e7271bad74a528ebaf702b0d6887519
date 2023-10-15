@@ -1,0 +1,23 @@
+
+n
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑîÕ"
+i
+java:S1192g"SDefine a constant instead of duplicating this literal "currentUserObject" 14 times.(ðÿº¡
+<
+java:S1452s"&Remove usage of generic wildcard type.(…×Ýƒ
+=
+java:S1452€"&Remove usage of generic wildcard type.(–¢ö
+u
+java:S1171Ð"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+B
+java:S1452ì"&Remove usage of generic wildcard type.(„àÐúÿÿÿÿ
+B
+java:S1452€"&Remove usage of generic wildcard type.(ÌËÙùÿÿÿÿ
+=
+java:S1452"&Remove usage of generic wildcard type.(ûü„ç
+B
+java:S1452™"&Remove usage of generic wildcard type.(ýœ‡Ëÿÿÿÿÿ
+B
+java:S1452¤"&Remove usage of generic wildcard type.(©…Åžùÿÿÿÿ
+=
+java:S1452®"&Remove usage of generic wildcard type.(ùóÔî

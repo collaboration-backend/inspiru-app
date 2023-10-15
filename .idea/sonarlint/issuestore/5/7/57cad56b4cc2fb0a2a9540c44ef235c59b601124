@@ -1,0 +1,59 @@
+
+h
+java:S1192I"SDefine a constant instead of duplicating this literal "currentUserObject" 13 times.(™·Ñ
+e
+java:S1192Y"ODefine a constant instead of duplicating this literal "dueDiligenceId" 6 times.(‡•şò
+]
+java:S1192ó"FDefine a constant instead of duplicating this literal "other" 3 times.(°¤¦Ü
+]
+java:S1192ô"FDefine a constant instead of duplicating this literal "Other" 3 times.(ÿÿƒŸ
+i
+java:S1192["SDefine a constant instead of duplicating this literal "invalid formToken" 10 times.(¹¿¼
+a
+java:S1192["KDefine a constant instead of duplicating this literal "formToken" 10 times.(¹¿¼
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•şò
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•şò
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•şò
+g	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•şò
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•şò
+c	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦œ¼š
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òëÃûÿÿÿÿ
+A
+java:S1452Q"&Remove usage of generic wildcard type.(òëÃûÿÿÿÿ
+c	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´•µâ
+h	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è°›éùÿÿÿÿ
+l
+java:S2159´"VRemove this call to "equals"; comparisons between unrelated types always return false.(íçáN
+l
+java:S2159Ğ"VRemove this call to "equals"; comparisons between unrelated types always return false.(íçáN
+W	java:S125ë"<This block of commented-out lines of code should be removed.( Ã¢Îüÿÿÿÿ
+Q	java:S125ü"<This block of commented-out lines of code should be removed.(Üú‹X
+R	java:S125‡"<This block of commented-out lines of code should be removed.(¿ÛıŞ
+B
+java:S1452¬"&Remove usage of generic wildcard type.(Ÿ¹œÚüÿÿÿÿ
+[
+java:S1854·"ERemove this useless assignment to local variable "currentUserObject".(™·Ñ
+L
+java:S1481·"6Remove this unused "currentUserObject" local variable.(™·Ñ
+[
+java:S1854Ä"ERemove this useless assignment to local variable "currentUserObject".(™·Ñ
+L
+java:S1481Ä"6Remove this unused "currentUserObject" local variable.(™·Ñ
+[
+java:S1854Ğ"ERemove this useless assignment to local variable "currentUserObject".(™·Ñ
+L
+java:S1481Ğ"6Remove this unused "currentUserObject" local variable.(™·Ñ
+B
+java:S1452Ú"&Remove usage of generic wildcard type.(’›ë¯úÿÿÿÿ
+i	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ—†„øÿÿÿÿ
+B
+java:S1602",Remove useless curly braces around statement(ôºÖH
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÛáÂ…
+L
+java:S6397›"5Replace this character class by the character itself.(Àâ˜¡
+h
+java:S5998³"LRefactor this repetition that can lead to a stack overflow for large inputs.(·ïÇûÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(ÎòÃûÿÿÿÿ
+ê
+java:S6541†"ÒA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù§Ù¥ to Ù¦Ù¤, Complexity from Ù¢Ù§ to Ù¡Ù¤, Nesting Level from Ù¦ to Ù¢, Number of Variables from Ù¡Ù§ to Ù¦.(ÛáÂ…

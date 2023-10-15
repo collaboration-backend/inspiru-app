@@ -1,0 +1,13 @@
+
+a
+java:S1192+"FDefine a constant instead of duplicating this literal "/api/" 4 times.(´—¼µþÿÿÿÿ
+y
+java:S1488*"^Immediately return this expression instead of assigning it to the temporary variable "docket".(¹•Ýòþÿÿÿÿ
+t
+java:S1488:"^Immediately return this expression instead of assigning it to the temporary variable "docket".(°ÐêŠ
+t
+java:S1488H"^Immediately return this expression instead of assigning it to the temporary variable "docket".(´åý´
+K
+java:S1874_"0Remove this use of "forPaths"; it is deprecated.(˜ô§Ñûÿÿÿÿ
+@
+java:S1068&"*Remove this unused "LOGGER" private field.(­ëø‰

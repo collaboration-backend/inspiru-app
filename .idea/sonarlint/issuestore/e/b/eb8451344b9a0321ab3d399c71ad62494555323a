@@ -1,0 +1,65 @@
+
+f
+java:S1192"PDefine a constant instead of duplicating this literal "workshopSession" 8 times.(½Øƒó
+b
+java:S1192^"LDefine a constant instead of duplicating this literal "startupName" 6 times.(¤…­
+i
+java:S1192a"NDefine a constant instead of duplicating this literal "submittedUser" 3 times.(‡¤Âïıÿÿÿÿ
+]
+java:S1192["GDefine a constant instead of duplicating this literal "status" 6 times.(´™ÊÖ
+d
+java:S1192g"NDefine a constant instead of duplicating this literal "refAssignment" 3 times.(ø¡÷ì
+g
+java:S1192!"LDefine a constant instead of duplicating this literal "academyRoom" 4 times.(ì»óğûÿÿÿÿ
+f
+java:S1192½"JDefine a constant instead of duplicating this literal "refSurvey" 3 times.(£‚õ‹ûÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "alias" 4 times.(Ï¼àÿÿÿÿÿÿ
+h
+java:S1192’"LDefine a constant instead of duplicating this literal "submittedBy" 3 times.(•‚ğøşÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ÅÌÖ
+A
+java:S1172"+Remove this unused method parameter "user".(‹¡¸®
+V	java:S125"<This block of commented-out lines of code should be removed.(‚ÈÜ şÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(à•ÿÃùÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ïâ²Ûşÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(Ğ¾¯
+Q	java:S125-"<This block of commented-out lines of code should be removed.(±Ş½Ş
+V	java:S125/"<This block of commented-out lines of code should be removed.(‘çÕüÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(»ÿ¡Ôüÿÿÿÿ
+Y
+java:S1155G">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ
+m
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(€ò°ÿüÿÿÿÿ
+F
+java:S1172Q"+Remove this unused method parameter "user".(€ò°ÿüÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(‚ÈÜ şÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(ŒÆÔ
+V	java:S125o"<This block of commented-out lines of code should be removed.(â§£üÿÿÿÿ
+P	java:S125r"<This block of commented-out lines of code should be removed.(À¢ò
+Q	java:S125x"<This block of commented-out lines of code should be removed.(‰åÒÏ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(±Ş½Ş
+V	java:S125}"<This block of commented-out lines of code should be removed.(‘çÕüÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(•àä¡ûÿÿÿÿ
+W	java:S125™"<This block of commented-out lines of code should be removed.(â²­şÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(‰¸½÷
+Z
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŞğŸ
+B
+java:S1172«"+Remove this unused method parameter "user".(ŞğŸ
+W	java:S125²"<This block of commented-out lines of code should be removed.(‚ÈÜ şÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(â§£üÿÿÿÿ
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(÷Ñ£Ûøÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(Åğ§Ÿøÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(•àä¡ûÿÿÿÿ
+Z
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(µ…òğ
+B
+java:S1172ø"+Remove this unused method parameter "user".(µ…òğ
+Z
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ

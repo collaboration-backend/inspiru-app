@@ -1,0 +1,92 @@
+
+u
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").( Î´ïûÿÿÿÿ
+s
+java:S1192‰"WDefine a constant instead of duplicating this literal "Selected to assessment" 6 times.(Ì¤îûûÿÿÿÿ
+u
+java:S1192¦"^Define a constant instead of duplicating this literal "Startup IDs must not be empty" 4 times.(ËÁîµ
+s
+java:S1192¤"WDefine a constant instead of duplicating this literal "Invalid phase received" 4 times.(Ó›½øûÿÿÿÿ
+‰
+java:S1192"rDefine a constant instead of duplicating this literal "Failed to start evaluation for the given startups" 3 times.(ü…§ç
+b
+java:S1192‚"FDefine a constant instead of duplicating this literal "phase" 4 times.(Íº¡‘ùÿÿÿÿ
+i
+java:S1192Ÿ"RDefine a constant instead of duplicating this literal "intakeProgramName" 7 times.(½›Ø
+j
+java:S1192h"ODefine a constant instead of duplicating this literal "dueDiligenceId" 3 times.(‘Í€ıÿÿÿÿ
+y
+java:S1192¹"]Define a constant instead of duplicating this literal "intakeProgramId|assessmentId" 3 times.(å½Ü¨ûÿÿÿÿ
+n
+java:S1192—"RDefine a constant instead of duplicating this literal "Intake not found" 30 times.(ıÌ•Ïøÿÿÿÿ
+k
+java:S1192Ò"ODefine a constant instead of duplicating this literal "Invalid formId" 3 times.(¶î¸‹ûÿÿÿÿ
+^
+java:S1192¢"GDefine a constant instead of duplicating this literal "email" 10 times.(Ÿûñ’
+f
+java:S1192Ô"ODefine a constant instead of duplicating this literal "User not found" 4 times.(ñ¨ÃÉ
+`
+java:S1192£"IDefine a constant instead of duplicating this literal "bootcamp" 7 times.(ï¶Éˆ
+r
+java:S1192ò"VDefine a constant instead of duplicating this literal "Application not found" 4 times.(„»Âëøÿÿÿÿ
+d
+java:S1192"HDefine a constant instead of duplicating this literal "Startup" 5 times.(–•ûúúÿÿÿÿ
+s
+java:S1192€"\Define a constant instead of duplicating this literal "not selected for assessment" 4 times.(ÄËÂ…
+d
+java:S1192Õ"HDefine a constant instead of duplicating this literal "Intake_" 3 times.(ÈšÄÇúÿÿÿÿ
+a
+java:S1192£"JDefine a constant instead of duplicating this literal "screening" 9 times.(ï¶Éˆ
+b
+java:S1192£"KDefine a constant instead of duplicating this literal "assessment" 9 times.(ï¶Éˆ
+j
+java:S1192¨"NDefine a constant instead of duplicating this literal "invalid_token" 5 times.(İ «ùÿÿÿÿ
+d
+java:S1192"MDefine a constant instead of duplicating this literal "Invalid user" 3 times.(šÅ’İ
+
+java:S1192É"qDefine a constant instead of duplicating this literal "Failed to stop evaluation for the given startups" 3 times.(±ˆ¤ÿÿÿÿÿ
+u
+java:S1192À"^Define a constant instead of duplicating this literal "Evaluation not conducted for " 5 times.(Òˆ‘Ÿ
+a
+java:S1192³"KDefine a constant instead of duplicating this literal "inviteLink" 4 times.(§îàV
+p
+java:S1192"UDefine a constant instead of duplicating this literal "Submission not found" 7 times.(İœ¾ùÿÿÿÿ
+g
+java:S1192"PDefine a constant instead of duplicating this literal "intakeProgramId" 9 times.(Ä¾‰ª
+`
+java:S1192±"JDefine a constant instead of duplicating this literal "Startup: " 3 times.(Õ¶šZ
+q
+java:S1192ˆ"[Define a constant instead of duplicating this literal "/topic/evaluationQue/user_" 3 times.(ÏÒ¦\
+_
+java:S1192´"HDefine a constant instead of duplicating this literal "toMail" 13 times.(Úä¤ö
+‚
+java:S1192§"kDefine a constant instead of duplicating this literal "Screening evaluation form is not published" 3 times.(›¯äÀ
+U
+java:S1596»">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(µ¯Ÿî
+m
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æ¬Øıÿÿÿÿ
+^
+java:S2230}"CMake this method "public" or remove the "@Transactional" annotation(Æ¬Øıÿÿÿÿ
+Y
+java:S2230Å"CMake this method "public" or remove the "@Transactional" annotation(Èù…0
+_
+java:S2230ï"CMake this method "public" or remove the "@Transactional" annotation(êšÿøÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(µÉå®ùÿÿÿÿ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Â¼ë«
+Z
+java:S2230º	"CMake this method "public" or remove the "@Transactional" annotation(’“Ó˜
+_
+java:S2230¿
+"CMake this method "public" or remove the "@Transactional" annotation(Ö‚éÏùÿÿÿÿ
+C
+java:S1602‡",Remove useless curly braces around statement(èí”ï
+C
+java:S1602Š",Remove useless curly braces around statement(Ş¢Ïú
+C
+java:S1602",Remove useless curly braces around statement(¸îØµ
+8	java:S131©""Add a default case to this switch.(¹ÌÓÏ
+8	java:S131¾""Add a default case to this switch.(¹ÌÓÏ
+g
+java:S1854Ó"KRemove this useless assignment to local variable "applicationsToBeUpdated".(·Êşˆşÿÿÿÿ

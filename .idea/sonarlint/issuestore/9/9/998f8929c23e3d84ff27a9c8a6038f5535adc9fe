@@ -1,0 +1,44 @@
+
+u
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(“²½ıùÿÿÿÿ
+u
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(“²½ıùÿÿÿÿ
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú
+~
+java:S1192M"cDefine a constant instead of duplicating this literal "User either blocked/not registered" 4 times.(à¾Øóúÿÿÿÿ
+r
+java:S1192š"VDefine a constant instead of duplicating this literal "phoneNumber not found" 4 times.(İ ËÇüÿÿÿÿ
+d
+java:S1192”"HDefine a constant instead of duplicating this literal "context" 3 times.(‰è¥Šøÿÿÿÿ
+_
+java:S1192T"IDefine a constant instead of duplicating this literal "roleName" 6 times.(ƒ¬Çì
+c
+java:S1192Ú"LDefine a constant instead of duplicating this literal "otp expired" 3 times.(ÅáŸß
+b
+java:S1192M"GDefine a constant instead of duplicating this literal "email" 17 times.(à¾Øóúÿÿÿÿ
+e
+java:S1192Ë"NDefine a constant instead of duplicating this literal "incorrect otp" 3 times.(€© ¥
+]
+java:S1192Q"GDefine a constant instead of duplicating this literal "userId" 8 times.(åöşÈ
+h
+java:S1192š"LDefine a constant instead of duplicating this literal "phoneNumber" 4 times.(İ ËÇüÿÿÿÿ
+]
+java:S1192ß"FDefine a constant instead of duplicating this literal "error" 3 times.(¦©®
+b
+java:S1192S"GDefine a constant instead of duplicating this literal "roleId" 6 times.(â¹Å¶ıÿÿÿÿ
+k
+java:S1192Ã"ODefine a constant instead of duplicating this literal "user not found" 3 times.(Á‹¦Áøÿÿÿÿ
+X
+java:S4973Ê"<Strings and Boxed types should be compared using "equals()".(âÇ‹úÿÿÿÿÿ
+t
+java:S1171l"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.( ³İ ıÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ÿö„¿úÿÿÿÿ
+n
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ò¡¼üÿÿÿÿ
+n
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(°ä˜úÿÿÿÿ

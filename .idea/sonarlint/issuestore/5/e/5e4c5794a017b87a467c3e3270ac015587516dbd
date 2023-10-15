@@ -1,0 +1,43 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÅ¬øÿÿÿÿ
+n
+java:S1192€"RDefine a constant instead of duplicating this literal "workshopSessionId" 6 times.(ºí÷öúÿÿÿÿ
+k
+java:S1192k"PDefine a constant instead of duplicating this literal "academyRoomName" 3 times.(§¨èîüÿÿÿÿ
+g
+java:S1192¿"KDefine a constant instead of duplicating this literal "sessionEnd" 3 times.(™Öéïûÿÿÿÿ
+i
+java:S1192æ"MDefine a constant instead of duplicating this literal "startupCount" 3 times.(”Ô›‡úÿÿÿÿ
+m
+java:S1192j"WDefine a constant instead of duplicating this literal "academyRoomDescription" 3 times.(Èıñ—
+i
+java:S1192l"NDefine a constant instead of duplicating this literal "academyRoomId" 8 times.(×©ÛÂşÿÿÿÿ
+K
+java:S1066ß"/Merge this if statement with the enclosing one.(àÀÎ¼şÿÿÿÿ
+h
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(»¬
+W	java:S125ï"<This block of commented-out lines of code should be removed.(ëêØ”øÿÿÿÿ
+i
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(’¼°©
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(óÚø
+h
+java:S1854"LRemove this useless assignment to local variable "removePartialPermissions".(ûÅ¬øÿÿÿÿ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(šõæŒüÿÿÿÿ
+i
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(¡×¶
+i
+java:S3776Ä	"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¤¡„•
+Z
+java:S2230Œ"CMake this method "public" or remove the "@Transactional" annotation(è°Î„
+D
+java:S1481"-Remove this unused "filePath" local variable.(ŞÂ¡ò
+i
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(«öóï
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(óš¡
+i
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“ó¶×
+è
+java:S6541Ç"ĞA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¦Ù¦ to Ù¦Ù¤, Complexity from Ù¢Ù¤ to Ù¡Ù¤, Nesting Level from Ù¥ to Ù¢, Number of Variables from Ù© to Ù¦.(¡×¶

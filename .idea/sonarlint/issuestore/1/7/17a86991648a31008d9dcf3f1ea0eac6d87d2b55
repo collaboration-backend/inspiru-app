@@ -1,0 +1,23 @@
+
+i
+java:S1192i"NDefine a constant instead of duplicating this literal "invalid_token" 4 times.(ª»«¼úÿÿÿÿ
+w
+java:S1488;"\Immediately return this expression instead of assigning it to the temporary variable "data".(öç“†øÿÿÿÿ
+w
+java:S1488T"\Immediately return this expression instead of assigning it to the temporary variable "data".(öç“†øÿÿÿÿ
+s
+java:S1488d"]Immediately return this expression instead of assigning it to the temporary variable "token".(íöêı
+s
+java:S1488s"]Immediately return this expression instead of assigning it to the temporary variable "token".(•º×ö
+t
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(ö±ªú
+x
+java:S1488™"\Immediately return this expression instead of assigning it to the temporary variable "data".(öç“†øÿÿÿÿ
+y
+java:S1488§"]Immediately return this expression instead of assigning it to the temporary variable "token".(´ïàêùÿÿÿÿ
+:
+java:S1168@"$Return an empty map instead of null.(¥¹ï
+:
+java:S1168Y"$Return an empty map instead of null.(¥¹ï
+;
+java:S1168"$Return an empty map instead of null.(¥¹ï

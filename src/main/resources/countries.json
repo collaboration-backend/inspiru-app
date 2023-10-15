@@ -1,0 +1,1534 @@
+[
+    {
+        "id": 11,
+        "name": "Argentina",
+        "nameAr": "لأرجنتين",
+        "iso3": "ARG",
+        "iso2": "AR",
+        "numeric_code": "032",
+        "phone_code": "54",
+        "capital": "Buenos Aires",
+        "currency": "ARS",
+        "currency_symbol": "$",
+        "tld": ".ar",
+        "native": "Argentina",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Argentina\/Buenos_Aires",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Catamarca",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Cordoba",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Jujuy",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/La_Rioja",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Mendoza",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Rio_Gallegos",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Salta",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/San_Juan",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/San_Luis",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Tucuman",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            },
+            {
+                "zoneName": "America\/Argentina\/Ushuaia",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "ART",
+                "tzName": "Argentina Time"
+            }
+        ],
+        "translations": {
+            "kr": "아르헨티나",
+            "br": "Argentina",
+            "pt": "Argentina",
+            "nl": "Argentinië",
+            "hr": "Argentina",
+            "fa": "آرژانتین",
+            "de": "Argentinien",
+            "es": "Argentina",
+            "fr": "Argentine",
+            "ja": "アルゼンチン",
+            "it": "Argentina",
+            "cn": "阿根廷"
+        },
+        "latitude": "-34.00000000",
+        "longitude": "-64.00000000",
+        "emoji": "🇦🇷",
+        "emojiU": "U+1F1E6 U+1F1F7"
+    },
+    {
+        "id": 18,
+        "name": "Bahrain",
+        "nameAr": "البحرين",
+        "iso3": "BHR",
+        "iso2": "BH",
+        "numeric_code": "048",
+        "phone_code": "973",
+        "capital": "Manama",
+        "currency": "BHD",
+        "currency_symbol": ".د.ب",
+        "tld": ".bh",
+        "native": "‏البحرين",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Bahrain",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "바레인",
+            "br": "Bahrein",
+            "pt": "Barém",
+            "nl": "Bahrein",
+            "hr": "Bahrein",
+            "fa": "بحرین",
+            "de": "Bahrain",
+            "es": "Bahrein",
+            "fr": "Bahreïn",
+            "ja": "バーレーン",
+            "it": "Bahrein",
+            "cn": "巴林"
+        },
+        "latitude": "26.00000000",
+        "longitude": "50.55000000",
+        "emoji": "🇧🇭",
+        "emojiU": "U+1F1E7 U+1F1ED"
+    },
+    {
+        "id": 31,
+        "name": "Brazil",
+        "nameAr": "البرازيل",
+        "iso3": "BRA",
+        "iso2": "BR",
+        "numeric_code": "076",
+        "phone_code": "55",
+        "capital": "Brasilia",
+        "currency": "BRL",
+        "currency_symbol": "R$",
+        "tld": ".br",
+        "native": "Brasil",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Araguaina",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Bahia",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Belem",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Boa_Vista",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Campo_Grande",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Cuiaba",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasilia Time"
+            },
+            {
+                "zoneName": "America\/Eirunepe",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "ACT",
+                "tzName": "Acre Time"
+            },
+            {
+                "zoneName": "America\/Fortaleza",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Maceio",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Manaus",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)"
+            },
+            {
+                "zoneName": "America\/Noronha",
+                "gmtOffset": -7200,
+                "gmtOffsetName": "UTC-02:00",
+                "abbreviation": "FNT",
+                "tzName": "Fernando de Noronha Time"
+            },
+            {
+                "zoneName": "America\/Porto_Velho",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AMT",
+                "tzName": "Amazon Time (Brazil)[3"
+            },
+            {
+                "zoneName": "America\/Recife",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Rio_Branco",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "ACT",
+                "tzName": "Acre Time"
+            },
+            {
+                "zoneName": "America\/Santarem",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            },
+            {
+                "zoneName": "America\/Sao_Paulo",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "BRT",
+                "tzName": "Brasília Time"
+            }
+        ],
+        "translations": {
+            "kr": "브라질",
+            "br": "Brasil",
+            "pt": "Brasil",
+            "nl": "Brazilië",
+            "hr": "Brazil",
+            "fa": "برزیل",
+            "de": "Brasilien",
+            "es": "Brasil",
+            "fr": "Brésil",
+            "ja": "ブラジル",
+            "it": "Brasile",
+            "cn": "巴西"
+        },
+        "latitude": "-10.00000000",
+        "longitude": "-55.00000000",
+        "emoji": "🇧🇷",
+        "emojiU": "U+1F1E7 U+1F1F7"
+    },
+    {
+        "id": 39,
+        "name": "Canada",
+        "nameAr": "كندا",
+        "iso3": "CAN",
+        "iso2": "CA",
+        "numeric_code": "124",
+        "phone_code": "1",
+        "capital": "Ottawa",
+        "currency": "CAD",
+        "currency_symbol": "$",
+        "tld": ".ca",
+        "native": "Canada",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "timezones": [
+            {
+                "zoneName": "America\/Atikokan",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Blanc-Sablon",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            },
+            {
+                "zoneName": "America\/Cambridge_Bay",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Creston",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Dawson",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Dawson_Creek",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Edmonton",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Fort_Nelson",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America)"
+            },
+            {
+                "zoneName": "America\/Glace_Bay",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            },
+            {
+                "zoneName": "America\/Goose_Bay",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            },
+            {
+                "zoneName": "America\/Halifax",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            },
+            {
+                "zoneName": "America\/Inuvik",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Iqaluit",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Moncton",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            },
+            {
+                "zoneName": "America\/Nipigon",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Pangnirtung",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Rainy_River",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Rankin_Inlet",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Regina",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Resolute",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/St_Johns",
+                "gmtOffset": -12600,
+                "gmtOffsetName": "UTC-03:30",
+                "abbreviation": "NST",
+                "tzName": "Newfoundland Standard Time"
+            },
+            {
+                "zoneName": "America\/Swift_Current",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Thunder_Bay",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Toronto",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Vancouver",
+                "gmtOffset": -28800,
+                "gmtOffsetName": "UTC-08:00",
+                "abbreviation": "PST",
+                "tzName": "Pacific Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Whitehorse",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Winnipeg",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Yellowknife",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            }
+        ],
+        "translations": {
+            "kr": "캐나다",
+            "br": "Canadá",
+            "pt": "Canadá",
+            "nl": "Canada",
+            "hr": "Kanada",
+            "fa": "کانادا",
+            "de": "Kanada",
+            "es": "Canadá",
+            "fr": "Canada",
+            "ja": "カナダ",
+            "it": "Canada",
+            "cn": "加拿大"
+        },
+        "latitude": "60.00000000",
+        "longitude": "-95.00000000",
+        "emoji": "🇨🇦",
+        "emojiU": "U+1F1E8 U+1F1E6"
+    },
+    {
+        "id": 44,
+        "name": "Chile",
+        "nameAr": "تشيلي",
+        "iso3": "CHL",
+        "iso2": "CL",
+        "numeric_code": "152",
+        "phone_code": "56",
+        "capital": "Santiago",
+        "currency": "CLP",
+        "currency_symbol": "$",
+        "tld": ".cl",
+        "native": "Chile",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Punta_Arenas",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "CLST",
+                "tzName": "Chile Summer Time"
+            },
+            {
+                "zoneName": "America\/Santiago",
+                "gmtOffset": -10800,
+                "gmtOffsetName": "UTC-03:00",
+                "abbreviation": "CLST",
+                "tzName": "Chile Summer Time"
+            },
+            {
+                "zoneName": "Pacific\/Easter",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EASST",
+                "tzName": "Easter Island Summer Time"
+            }
+        ],
+        "translations": {
+            "kr": "칠리",
+            "br": "Chile",
+            "pt": "Chile",
+            "nl": "Chili",
+            "hr": "Čile",
+            "fa": "شیلی",
+            "de": "Chile",
+            "es": "Chile",
+            "fr": "Chili",
+            "ja": "チリ",
+            "it": "Cile",
+            "cn": "智利"
+        },
+        "latitude": "-30.00000000",
+        "longitude": "-71.00000000",
+        "emoji": "🇨🇱",
+        "emojiU": "U+1F1E8 U+1F1F1"
+    },
+    {
+        "id": 48,
+        "name": "Colombia",
+        "nameAr": "كولومبيا",
+        "iso3": "COL",
+        "iso2": "CO",
+        "numeric_code": "170",
+        "phone_code": "57",
+        "capital": "Bogota",
+        "currency": "COP",
+        "currency_symbol": "$",
+        "tld": ".co",
+        "native": "Colombia",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Bogota",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "COT",
+                "tzName": "Colombia Time"
+            }
+        ],
+        "translations": {
+            "kr": "콜롬비아",
+            "br": "Colômbia",
+            "pt": "Colômbia",
+            "nl": "Colombia",
+            "hr": "Kolumbija",
+            "fa": "کلمبیا",
+            "de": "Kolumbien",
+            "es": "Colombia",
+            "fr": "Colombie",
+            "ja": "コロンビア",
+            "it": "Colombia",
+            "cn": "哥伦比亚"
+        },
+        "latitude": "4.00000000",
+        "longitude": "-72.00000000",
+        "emoji": "🇨🇴",
+        "emojiU": "U+1F1E8 U+1F1F4"
+    },
+    {
+        "id": 75,
+        "name": "France",
+        "nameAr": "فرنسا",
+        "iso3": "FRA",
+        "iso2": "FR",
+        "numeric_code": "250",
+        "phone_code": "33",
+        "capital": "Paris",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".fr",
+        "native": "France",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Paris",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "프랑스",
+            "br": "França",
+            "pt": "França",
+            "nl": "Frankrijk",
+            "hr": "Francuska",
+            "fa": "فرانسه",
+            "de": "Frankreich",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス",
+            "it": "Francia",
+            "cn": "法国"
+        },
+        "latitude": "46.00000000",
+        "longitude": "2.00000000",
+        "emoji": "🇫🇷",
+        "emojiU": "U+1F1EB U+1F1F7"
+    },
+    {
+        "id": 82,
+        "name": "Germany",
+        "nameAr": "ألمانيا",
+        "iso3": "DEU",
+        "iso2": "DE",
+        "numeric_code": "276",
+        "phone_code": "49",
+        "capital": "Berlin",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".de",
+        "native": "Deutschland",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Berlin",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            },
+            {
+                "zoneName": "Europe\/Busingen",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "독일",
+            "br": "Alemanha",
+            "pt": "Alemanha",
+            "nl": "Duitsland",
+            "hr": "Njemačka",
+            "fa": "آلمان",
+            "de": "Deutschland",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ",
+            "it": "Germania",
+            "cn": "德国"
+        },
+        "latitude": "51.00000000",
+        "longitude": "9.00000000",
+        "emoji": "🇩🇪",
+        "emojiU": "U+1F1E9 U+1F1EA"
+    },
+    {
+        "id": 107,
+        "name": "Italy",
+        "nameAr": "إيطاليا",
+        "iso3": "ITA",
+        "iso2": "IT",
+        "numeric_code": "380",
+        "phone_code": "39",
+        "capital": "Rome",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".it",
+        "native": "Italia",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Rome",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "이탈리아",
+            "br": "Itália",
+            "pt": "Itália",
+            "nl": "Italië",
+            "hr": "Italija",
+            "fa": "ایتالیا",
+            "de": "Italien",
+            "es": "Italia",
+            "fr": "Italie",
+            "ja": "イタリア",
+            "it": "Italia",
+            "cn": "意大利"
+        },
+        "latitude": "42.83333333",
+        "longitude": "12.83333333",
+        "emoji": "🇮🇹",
+        "emojiU": "U+1F1EE U+1F1F9"
+    },
+    {
+        "id": 117,
+        "name": "Kuwait",
+        "nameAr": "الكويت",
+        "iso3": "KWT",
+        "iso2": "KW",
+        "numeric_code": "414",
+        "phone_code": "965",
+        "capital": "Kuwait City",
+        "currency": "KWD",
+        "currency_symbol": "ك.د",
+        "tld": ".kw",
+        "native": "الكويت",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Kuwait",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "쿠웨이트",
+            "br": "Kuwait",
+            "pt": "Kuwait",
+            "nl": "Koeweit",
+            "hr": "Kuvajt",
+            "fa": "کویت",
+            "de": "Kuwait",
+            "es": "Kuwait",
+            "fr": "Koweït",
+            "ja": "クウェート",
+            "it": "Kuwait",
+            "cn": "科威特"
+        },
+        "latitude": "29.50000000",
+        "longitude": "45.75000000",
+        "emoji": "🇰🇼",
+        "emojiU": "U+1F1F0 U+1F1FC"
+    },
+    {
+        "id": 142,
+        "name": "Mexico",
+        "nameAr": "المكسيك",
+        "iso3": "MEX",
+        "iso2": "MX",
+        "numeric_code": "484",
+        "phone_code": "52",
+        "capital": "Mexico City",
+        "currency": "MXN",
+        "currency_symbol": "$",
+        "tld": ".mx",
+        "native": "México",
+        "region": "Americas",
+        "subregion": "Central America",
+        "timezones": [
+            {
+                "zoneName": "America\/Bahia_Banderas",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Cancun",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Chihuahua",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Hermosillo",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Matamoros",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Mazatlan",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Merida",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Mexico_City",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Monterrey",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Ojinaga",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Tijuana",
+                "gmtOffset": -28800,
+                "gmtOffsetName": "UTC-08:00",
+                "abbreviation": "PST",
+                "tzName": "Pacific Standard Time (North America"
+            }
+        ],
+        "translations": {
+            "kr": "멕시코",
+            "br": "México",
+            "pt": "México",
+            "nl": "Mexico",
+            "hr": "Meksiko",
+            "fa": "مکزیک",
+            "de": "Mexiko",
+            "es": "México",
+            "fr": "Mexique",
+            "ja": "メキシコ",
+            "it": "Messico",
+            "cn": "墨西哥"
+        },
+        "latitude": "23.00000000",
+        "longitude": "-102.00000000",
+        "emoji": "🇲🇽",
+        "emojiU": "U+1F1F2 U+1F1FD"
+    },
+    {
+        "id": 156,
+        "name": "Netherlands",
+        "nameAr": "هولندا",
+        "iso3": "NLD",
+        "iso2": "NL",
+        "numeric_code": "528",
+        "phone_code": "31",
+        "capital": "Amsterdam",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".nl",
+        "native": "Nederland",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Amsterdam",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "네덜란드 ",
+            "br": "Holanda",
+            "pt": "Países Baixos",
+            "nl": "Nederland",
+            "hr": "Nizozemska",
+            "fa": "پادشاهی هلند",
+            "de": "Niederlande",
+            "es": "Países Bajos",
+            "fr": "Pays-Bas",
+            "ja": "オランダ",
+            "it": "Paesi Bassi",
+            "cn": "荷兰"
+        },
+        "latitude": "52.50000000",
+        "longitude": "5.75000000",
+        "emoji": "🇳🇱",
+        "emojiU": "U+1F1F3 U+1F1F1"
+    },
+    {
+        "id": 173,
+        "name": "Peru",
+        "nameAr": "بيرو",
+        "iso3": "PER",
+        "iso2": "PE",
+        "numeric_code": "604",
+        "phone_code": "51",
+        "capital": "Lima",
+        "currency": "PEN",
+        "currency_symbol": "S\/.",
+        "tld": ".pe",
+        "native": "Perú",
+        "region": "Americas",
+        "subregion": "South America",
+        "timezones": [
+            {
+                "zoneName": "America\/Lima",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "PET",
+                "tzName": "Peru Time"
+            }
+        ],
+        "translations": {
+            "kr": "페루",
+            "br": "Peru",
+            "pt": "Peru",
+            "nl": "Peru",
+            "hr": "Peru",
+            "fa": "پرو",
+            "de": "Peru",
+            "es": "Perú",
+            "fr": "Pérou",
+            "ja": "ペルー",
+            "it": "Perù",
+            "cn": "秘鲁"
+        },
+        "latitude": "-10.00000000",
+        "longitude": "-76.00000000",
+        "emoji": "🇵🇪",
+        "emojiU": "U+1F1F5 U+1F1EA"
+    },
+    {
+        "id": 179,
+        "name": "Qatar",
+        "nameAr": "قطر",
+        "iso3": "QAT",
+        "iso2": "QA",
+        "numeric_code": "634",
+        "phone_code": "974",
+        "capital": "Doha",
+        "currency": "QAR",
+        "currency_symbol": "ق.ر",
+        "tld": ".qa",
+        "native": "قطر",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Qatar",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "카타르",
+            "br": "Catar",
+            "pt": "Catar",
+            "nl": "Qatar",
+            "hr": "Katar",
+            "fa": "قطر",
+            "de": "Katar",
+            "es": "Catar",
+            "fr": "Qatar",
+            "ja": "カタール",
+            "it": "Qatar",
+            "cn": "卡塔尔"
+        },
+        "latitude": "25.50000000",
+        "longitude": "51.25000000",
+        "emoji": "🇶🇦",
+        "emojiU": "U+1F1F6 U+1F1E6"
+    },
+    {
+        "id": 194,
+        "name": "Saudi Arabia",
+        "nameAr": "المملكة العربية السعودية",
+        "iso3": "SAU",
+        "iso2": "SA",
+        "numeric_code": "682",
+        "phone_code": "966",
+        "capital": "Riyadh",
+        "currency": "SAR",
+        "currency_symbol": "﷼",
+        "tld": ".sa",
+        "native": "المملكة العربية السعودية",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Riyadh",
+                "gmtOffset": 10800,
+                "gmtOffsetName": "UTC+03:00",
+                "abbreviation": "AST",
+                "tzName": "Arabia Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "사우디아라비아",
+            "br": "Arábia Saudita",
+            "pt": "Arábia Saudita",
+            "nl": "Saoedi-Arabië",
+            "hr": "Saudijska Arabija",
+            "fa": "عربستان سعودی",
+            "de": "Saudi-Arabien",
+            "es": "Arabia Saudí",
+            "fr": "Arabie Saoudite",
+            "ja": "サウジアラビア",
+            "it": "Arabia Saudita",
+            "cn": "沙特阿拉伯"
+        },
+        "latitude": "25.00000000",
+        "longitude": "45.00000000",
+        "emoji": "🇸🇦",
+        "emojiU": "U+1F1F8 U+1F1E6"
+    },
+    {
+        "id": 207,
+        "name": "Spain",
+        "nameAr": "إسبانيا",
+        "iso3": "ESP",
+        "iso2": "ES",
+        "numeric_code": "724",
+        "phone_code": "34",
+        "capital": "Madrid",
+        "currency": "EUR",
+        "currency_symbol": "€",
+        "tld": ".es",
+        "native": "España",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Ceuta",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            },
+            {
+                "zoneName": "Atlantic\/Canary",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "WET",
+                "tzName": "Western European Time"
+            },
+            {
+                "zoneName": "Europe\/Madrid",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "스페인",
+            "br": "Espanha",
+            "pt": "Espanha",
+            "nl": "Spanje",
+            "hr": "Španjolska",
+            "fa": "اسپانیا",
+            "de": "Spanien",
+            "es": "España",
+            "fr": "Espagne",
+            "ja": "スペイン",
+            "it": "Spagna",
+            "cn": "西班牙"
+        },
+        "latitude": "40.00000000",
+        "longitude": "-4.00000000",
+        "emoji": "🇪🇸",
+        "emojiU": "U+1F1EA U+1F1F8"
+    },
+    {
+        "id": 213,
+        "name": "Sweden",
+        "nameAr": "السويد",
+        "iso3": "SWE",
+        "iso2": "SE",
+        "numeric_code": "752",
+        "phone_code": "46",
+        "capital": "Stockholm",
+        "currency": "SEK",
+        "currency_symbol": "kr",
+        "tld": ".se",
+        "native": "Sverige",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Stockholm",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "스웨덴",
+            "br": "Suécia",
+            "pt": "Suécia",
+            "nl": "Zweden",
+            "hr": "Švedska",
+            "fa": "سوئد",
+            "de": "Schweden",
+            "es": "Suecia",
+            "fr": "Suède",
+            "ja": "スウェーデン",
+            "it": "Svezia",
+            "cn": "瑞典"
+        },
+        "latitude": "62.00000000",
+        "longitude": "15.00000000",
+        "emoji": "🇸🇪",
+        "emojiU": "U+1F1F8 U+1F1EA"
+    },
+    {
+        "id": 214,
+        "name": "Switzerland",
+        "nameAr": "سويسرا",
+        "iso3": "CHE",
+        "iso2": "CH",
+        "numeric_code": "756",
+        "phone_code": "41",
+        "capital": "Bern",
+        "currency": "CHF",
+        "currency_symbol": "CHf",
+        "tld": ".ch",
+        "native": "Schweiz",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/Zurich",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "CET",
+                "tzName": "Central European Time"
+            }
+        ],
+        "translations": {
+            "kr": "스위스",
+            "br": "Suíça",
+            "pt": "Suíça",
+            "nl": "Zwitserland",
+            "hr": "Švicarska",
+            "fa": "سوئیس",
+            "de": "Schweiz",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス",
+            "it": "Svizzera",
+            "cn": "瑞士"
+        },
+        "latitude": "47.00000000",
+        "longitude": "8.00000000",
+        "emoji": "🇨🇭",
+        "emojiU": "U+1F1E8 U+1F1ED"
+    },
+    {
+        "id": 232,
+        "name": "United Kingdom",
+        "nameAr": "المملكة المتحدة",
+        "iso3": "GBR",
+        "iso2": "GB",
+        "numeric_code": "826",
+        "phone_code": "44",
+        "capital": "London",
+        "currency": "GBP",
+        "currency_symbol": "£",
+        "tld": ".uk",
+        "native": "United Kingdom",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "timezones": [
+            {
+                "zoneName": "Europe\/London",
+                "gmtOffset": 0,
+                "gmtOffsetName": "UTC±00",
+                "abbreviation": "GMT",
+                "tzName": "Greenwich Mean Time"
+            }
+        ],
+        "translations": {
+            "kr": "영국",
+            "br": "Reino Unido",
+            "pt": "Reino Unido",
+            "nl": "Verenigd Koninkrijk",
+            "hr": "Ujedinjeno Kraljevstvo",
+            "fa": "بریتانیای کبیر و ایرلند شمالی",
+            "de": "Vereinigtes Königreich",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "イギリス",
+            "it": "Regno Unito",
+            "cn": "英国"
+        },
+        "latitude": "54.00000000",
+        "longitude": "-2.00000000",
+        "emoji": "🇬🇧",
+        "emojiU": "U+1F1EC U+1F1E7"
+    },
+    {
+        "id": 233,
+        "name": "United States",
+        "nameAr": "الولايات المتحدة",
+        "iso3": "USA",
+        "iso2": "US",
+        "numeric_code": "840",
+        "phone_code": "1",
+        "capital": "Washington",
+        "currency": "USD",
+        "currency_symbol": "$",
+        "tld": ".us",
+        "native": "United States",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "timezones": [
+            {
+                "zoneName": "America\/Adak",
+                "gmtOffset": -36000,
+                "gmtOffsetName": "UTC-10:00",
+                "abbreviation": "HST",
+                "tzName": "Hawaii–Aleutian Standard Time"
+            },
+            {
+                "zoneName": "America\/Anchorage",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "America\/Boise",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Chicago",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Denver",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Detroit",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Indianapolis",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Knox",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Marengo",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Petersburg",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Tell_City",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Vevay",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Vincennes",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Indiana\/Winamac",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Juneau",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "America\/Kentucky\/Louisville",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Kentucky\/Monticello",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Los_Angeles",
+                "gmtOffset": -28800,
+                "gmtOffsetName": "UTC-08:00",
+                "abbreviation": "PST",
+                "tzName": "Pacific Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Menominee",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Metlakatla",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "America\/New_York",
+                "gmtOffset": -18000,
+                "gmtOffsetName": "UTC-05:00",
+                "abbreviation": "EST",
+                "tzName": "Eastern Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Nome",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "America\/North_Dakota\/Beulah",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/North_Dakota\/Center",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/North_Dakota\/New_Salem",
+                "gmtOffset": -21600,
+                "gmtOffsetName": "UTC-06:00",
+                "abbreviation": "CST",
+                "tzName": "Central Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Phoenix",
+                "gmtOffset": -25200,
+                "gmtOffsetName": "UTC-07:00",
+                "abbreviation": "MST",
+                "tzName": "Mountain Standard Time (North America"
+            },
+            {
+                "zoneName": "America\/Sitka",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "America\/Yakutat",
+                "gmtOffset": -32400,
+                "gmtOffsetName": "UTC-09:00",
+                "abbreviation": "AKST",
+                "tzName": "Alaska Standard Time"
+            },
+            {
+                "zoneName": "Pacific\/Honolulu",
+                "gmtOffset": -36000,
+                "gmtOffsetName": "UTC-10:00",
+                "abbreviation": "HST",
+                "tzName": "Hawaii–Aleutian Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "미국",
+            "br": "Estados Unidos",
+            "pt": "Estados Unidos",
+            "nl": "Verenigde Staten",
+            "hr": "Sjedinjene Američke Države",
+            "fa": "ایالات متحده آمریکا",
+            "de": "Vereinigte Staaten von Amerika",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "it": "Stati Uniti D'America",
+            "cn": "美国"
+        },
+        "latitude": "38.00000000",
+        "longitude": "-97.00000000",
+        "emoji": "🇺🇸",
+        "emojiU": "U+1F1FA U+1F1F8"
+    }
+]

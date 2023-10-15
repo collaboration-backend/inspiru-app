@@ -1,0 +1,46 @@
+
+a	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(°•£î
+t
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶î¼‡ùÿÿÿÿ
+o
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÏÄù
+D
+java:S1604¦"(Make this anonymous inner class a lambda(÷’È³üÿÿÿÿ
+?
+java:S1604¹"(Make this anonymous inner class a lambda(ÃÂŠ
+D
+java:S1604¶"(Make this anonymous inner class a lambda(…˜šÁûÿÿÿÿ
+
+java:S1488ƒ"cImmediately return this expression instead of assigning it to the temporary variable "minioClient".(àæ‘üÿÿÿÿ
+{
+java:S1488­"dImmediately return this expression instead of assigning it to the temporary variable "okHttpClient".(€ÜÏğ
+x
+java:S2629Æ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(“íà’úÿÿÿÿ
+x
+java:S2629Í"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ƒŒÚçøÿÿÿÿ
+ˆ
+java:S33055"mInject this field value directly into "customAuthenticationFilterRegistration", the only method that uses it.(¼Ö÷ÿÿÿÿÿÿ
+h
+java:S33052"RInject this field value directly into "minioClient", the only method that uses it.(«ª“ø
+z
+java:S33058"dInject this field value directly into "customAssetFilterRegistration", the only method that uses it.(•Ç•
+~
+java:S3305A"cInject this field value directly into "customSwaggerCssRegistration", the only method that uses it.(ÆÃ‹Êüÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á™İ
+˜
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Í€©¸
+W
+java:S4830"@Enable server certificate validation on this SSL/TLS connection.(Á™İ
+W
+java:S4830”"@Enable server certificate validation on this SSL/TLS connection.(Í€©¸
+C
+java:S4423Ÿ",Change this code to use a stronger protocol.(ÿ¶¶Ó
+V
+java:S5527©"?Enable server hostname verification on this SSL/TLS connection.(§¼Éç
+]
+java:S3457Æ"AFormat specifiers should be used instead of string concatenation.(“íà’úÿÿÿÿ
+]
+java:S3457Í"AFormat specifiers should be used instead of string concatenation.(ƒŒÚçøÿÿÿÿ

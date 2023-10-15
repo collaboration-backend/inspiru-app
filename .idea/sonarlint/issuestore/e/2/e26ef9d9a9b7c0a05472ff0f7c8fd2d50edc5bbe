@@ -1,0 +1,15 @@
+
+n
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ùŒH
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û²¬öøÿÿÿÿ
+m
+java:S2259N"RA "NullPointerException" could be thrown; "samlKeystorePassword" is nullable here.(Ùä†Ùøÿÿÿÿ
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(üŽ•¦
+–
+java:S1130$"{Remove the declaration of thrown exception 'com.onelogin.saml2.exception.Error', as it cannot be thrown from method's body.(ž¤Åµÿÿÿÿÿ
+?
+java:S1905@")Remove this unnecessary cast to "String".(”æ¿”
+P	java:S125R"<This block of commented-out lines of code should be removed.(ò³Áo
+V	java:S125V"<This block of commented-out lines of code should be removed.(™€ø‚ÿÿÿÿÿ

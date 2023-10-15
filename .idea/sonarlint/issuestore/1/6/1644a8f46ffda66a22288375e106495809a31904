@@ -1,0 +1,74 @@
+
+i
+java:S1192Æ"MDefine a constant instead of duplicating this literal "sessionStart" 3 times.(œÈû‚úÿÿÿÿ
+f
+java:S1192š"ODefine a constant instead of duplicating this literal "sessionEndTime" 3 times.(£«¢È
+i
+java:S1192ö"RDefine a constant instead of duplicating this literal "workshopSessionId" 4 times.(Äğİî
+c
+java:S1192Ğ"LDefine a constant instead of duplicating this literal "startupName" 3 times.(©ÚÍ
+c
+java:S1192Ë"LDefine a constant instead of duplicating this literal "meetingMode" 4 times.(ß”¿
+h
+java:S1192Ç"LDefine a constant instead of duplicating this literal "meetingName" 6 times.(‰ºâûÿÿÿÿÿ
+d
+java:S1192b"IDefine a constant instead of duplicating this literal "roleName" 4 times.(ìšÜ¶ıÿÿÿÿ
+]
+java:S1192È"GDefine a constant instead of duplicating this literal "status" 3 times.(º¾ºD
+\
+java:S1192a"FDefine a constant instead of duplicating this literal "email" 3 times.(ÂäÇÃ
+g
+java:S1192Å"KDefine a constant instead of duplicating this literal "sessionEnd" 3 times.(µåãşùÿÿÿÿ
+e
+java:S1192˜"ODefine a constant instead of duplicating this literal "sessionEndDate" 3 times.(¿ñ„`
+h
+java:S1192Í"LDefine a constant instead of duplicating this literal "meetingLink" 3 times.(‚ß¸Ğúÿÿÿÿ
+h
+java:S1192™"QDefine a constant instead of duplicating this literal "sessionStartDate" 3 times.(˜òÍÃ
+c
+java:S1192f"MDefine a constant instead of duplicating this literal "intakeNumber" 3 times.(ü±‰‚
+n
+java:S1192œ"RDefine a constant instead of duplicating this literal "oneToOneMeetingId" 5 times.(®ÎÎìÿÿÿÿÿ
+e
+java:S1192 "IDefine a constant instead of duplicating this literal "isOnline" 4 times.(ç‚…ˆùÿÿÿÿ
+h
+java:S1192Ê"LDefine a constant instead of duplicating this literal "meetingRoom" 3 times.(‰êÔáúÿÿÿÿ
+m
+java:S1192›"QDefine a constant instead of duplicating this literal "sessionStartTime" 3 times.(ê´ªìûÿÿÿÿ
+n
+java:S1192ä"RDefine a constant instead of duplicating this literal "Meeting not found" 3 times.(’Õ¹şÿÿÿÿ
+K
+java:S1066é"/Merge this if statement with the enclosing one.(’¦æÎùÿÿÿÿ
+g	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öß´î
+H
+java:S1199J"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+h
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(—ìÒ‡
+t
+java:S1171Z"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+t
+java:S1171x"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿÃš
+u
+java:S1171Ã"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(àñ”®
+u
+java:S1171Ò"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Öß´î
+u
+java:S1171ù"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+n
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(½îèáüÿÿÿÿ
+u
+java:S1171×"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171–"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Y
+java:S1126Ÿ"BReplace this if-then-else statement by a single method invocation.(§ÂÍ
+u
+java:S1171´"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Ğ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ

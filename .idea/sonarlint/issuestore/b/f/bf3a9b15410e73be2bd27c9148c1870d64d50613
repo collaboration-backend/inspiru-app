@@ -1,0 +1,68 @@
+
+s
+java:S2629°"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¹§—‰
+S
+java:S2629´"7Use the built-in formatting to construct this argument.(ÃÕ¡€úÿÿÿÿ
+s
+java:S2629Å"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¹§—‰
+S
+java:S2629É"7Use the built-in formatting to construct this argument.(ÃÕ¡€úÿÿÿÿ
+x
+java:S2629×"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ş£“şÿÿÿÿ
+N
+java:S2629ì"7Use the built-in formatting to construct this argument.(åÃêå
+N
+java:S2629ô"7Use the built-in formatting to construct this argument.(¦óš’
+N
+java:S2629ª"7Use the built-in formatting to construct this argument.(—ëîÉ
+S
+java:S2629«"7Use the built-in formatting to construct this argument.(éÛØíıÿÿÿÿ
+N
+java:S2629°"7Use the built-in formatting to construct this argument.(ëİùû
+S
+java:S2629¸"7Use the built-in formatting to construct this argument.(ôş‰™şÿÿÿÿ
+S
+java:S2629É"7Use the built-in formatting to construct this argument.(”¢ûÿÿÿÿ
+S
+java:S2629Ğ"7Use the built-in formatting to construct this argument.(êÿşñûÿÿÿÿ
+U
+java:S1118H":Add a private constructor to hide the implicit public one.(Î÷¾Éûÿÿÿÿ
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(¹§—‰
+]
+java:S3457´"AFormat specifiers should be used instead of string concatenation.(ÃÕ¡€úÿÿÿÿ
+X
+java:S3457Å"AFormat specifiers should be used instead of string concatenation.(¹§—‰
+]
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(ÃÕ¡€úÿÿÿÿ
+]
+java:S3457×"AFormat specifiers should be used instead of string concatenation.(ş£“şÿÿÿÿ
+X
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(åÃêå
+X
+java:S3457ô"AFormat specifiers should be used instead of string concatenation.(¦óš’
+W	java:S125ú"<This block of commented-out lines of code should be removed.(“Æüÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ø®Ø˜ÿÿÿÿÿ
+X
+java:S3457ª"AFormat specifiers should be used instead of string concatenation.(—ëîÉ
+]
+java:S3457«"AFormat specifiers should be used instead of string concatenation.(éÛØíıÿÿÿÿ
+X
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(ëİùû
+]
+java:S3457¸"AFormat specifiers should be used instead of string concatenation.(ôş‰™şÿÿÿÿ
+]
+java:S3457É"AFormat specifiers should be used instead of string concatenation.(”¢ûÿÿÿÿ
+F
+java:S1172Í"/Remove this unused method parameter "userPass".(™¬É…
+]
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(êÿşñûÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'java.security.cert.X509Certificate'.(å×â
+k
+java:S1128"PRemove this unused import 'org.apache.http.conn.ssl.SSLConnectionSocketFactory'.(ÆÍ¦ıÿÿÿÿ
+X
+java:S1128"CRemove this unused import 'org.apache.http.conn.ssl.TrustStrategy'.(îûç
+Z
+java:S1128"DRemove this unused import 'org.apache.http.impl.client.HttpClients'.(§¹øÿ

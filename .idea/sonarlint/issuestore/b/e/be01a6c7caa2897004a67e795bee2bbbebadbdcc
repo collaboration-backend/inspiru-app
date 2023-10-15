@@ -1,0 +1,15 @@
+
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(“²½ýùÿÿÿÿ
+g
+java:S1192,"RDefine a constant instead of duplicating this literal "currentUserObject" 7 times.(™·Ñ
+c
+java:S1192`"HDefine a constant instead of duplicating this literal "isAllow" 3 times.(òÂ®þþÿÿÿÿ
+\
+java:S1192a"FDefine a constant instead of duplicating this literal "error" 3 times.(‘þ¥Ò
+Z
+java:S1854F"ERemove this useless assignment to local variable "currentUserObject".(™·Ñ
+K
+java:S1481F"6Remove this unused "currentUserObject" local variable.(™·Ñ
+t
+java:S1171|"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ

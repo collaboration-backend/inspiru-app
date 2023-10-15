@@ -1,0 +1,50 @@
+
+p
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù’Üÿ
+u
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+p
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ·ÒÈ
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾âĞ¬
+c
+java:S1192û"MDefine a constant instead of duplicating this literal "sessionStart" 3 times.(“Üñ.
+_
+java:S1192à"HDefine a constant instead of duplicating this literal "No data" 3 times.(„ ¡¡
+_
+java:S1192G"JDefine a constant instead of duplicating this literal "meetingId" 5 times.(õè–
+^
+java:S1192à"GDefine a constant instead of duplicating this literal "result" 3 times.(„ ¡¡
+g
+java:S1192ş"KDefine a constant instead of duplicating this literal "sessionEnd" 3 times.(î«‚Îûÿÿÿÿ
+b
+java:S1192ü"FDefine a constant instead of duplicating this literal "hh:mm" 3 times.(¢ãÊúÿÿÿÿ
+b
+java:S1192ú"FDefine a constant instead of duplicating this literal "title" 3 times.(ñÔ®‰ûÿÿÿÿ
+_
+java:S1192"HDefine a constant instead of duplicating this literal "no data" 3 times.(¨´¸º
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã›¸”şÿÿÿÿ
+\
+java:S2184g"ACast one of the operands of this division operation to a "float".(Ú Ÿ­şÿÿÿÿ
+\
+java:S2184Æ"@Cast one of the operands of this integer division to a "double".(°óóÊûÿÿÿÿ
+]
+java:S2184Ö"FCast one of the operands of this multiplication operation to a "long".(¼º‚õ
+\
+java:S2184®"@Cast one of the operands of this integer division to a "double".(°óóÊûÿÿÿÿ
+h
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(Œ†­’
+=
+java:S1125\"'Remove the unnecessary boolean literal.(ò²â³
+A
+java:S2185g"&Remove this silly call to "Math.round"(Ú Ÿ­şÿÿÿÿ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¸ä¡ùÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(óÚ€§ùÿÿÿÿ
+n
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¡¢ ÷ÿÿÿÿÿ
+F
+java:S1611ò"/Remove the parentheses around the "e" parameter(ªÿÿå
+é
+java:S6541?"ÒA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù§Ù¡ to Ù¦Ù¤, Complexity from Ù¡Ù¨ to Ù¡Ù¤, Nesting Level from Ù¥ to Ù¢, Number of Variables from Ù¡Ù¥ to Ù¦.(Œ†­’

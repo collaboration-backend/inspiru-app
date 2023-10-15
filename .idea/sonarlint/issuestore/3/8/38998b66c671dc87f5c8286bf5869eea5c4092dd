@@ -1,0 +1,90 @@
+
+u
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÏØâûÿÿÿÿ
+p
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë«—Ô
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+u
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÏØâûÿÿÿÿ
+u
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÏØâûÿÿÿÿ
+]
+java:S1192Ù"FDefine a constant instead of duplicating this literal "error" 4 times.(¿ñ£¶
+_
+java:S1192Ø"HDefine a constant instead of duplicating this literal "isAllow" 4 times.(¥¨õú
+a
+java:S1192Œ"KDefine a constant instead of duplicating this literal "MM/dd/yyyy" 3 times.(óàœW
+]
+java:S1192˜"FDefine a constant instead of duplicating this literal "start" 3 times.(©×ê
+e
+java:S1192•"IDefine a constant instead of duplicating this literal "startup." 3 times.(Ä˜ùÊùÿÿÿÿ
+i
+java:S1192Í"MDefine a constant instead of duplicating this literal "startupMngt." 3 times.(¸¸—ßÿÿÿÿÿ
+o	java:S135Ü"YReduce the total number of break and continue statements in this loop to use at most one.(±ºÎô
+Q
+java:S1141¦"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+
+java:S14888"dImmediately return this expression instead of assigning it to the temporary variable "uuidAsString".(Âƒ–’úÿÿÿÿ
+u
+java:S1488I"ZImmediately return this expression instead of assigning it to the temporary variable "id".(ÂÀùşÿÿÿÿ
+u
+java:S1488R"ZImmediately return this expression instead of assigning it to the temporary variable "id".(€Ï‹Øùÿÿÿÿ
+p
+java:S1488W"ZImmediately return this expression instead of assigning it to the temporary variable "id".(ë‰»É
+w
+java:S1488_"\Immediately return this expression instead of assigning it to the temporary variable "next".(¦şàûÿÿÿÿ
+v
+java:S1488m"[Immediately return this expression instead of assigning it to the temporary variable "day".(¨ÛØ‘øÿÿÿÿ
+v
+java:S1488t"[Immediately return this expression instead of assigning it to the temporary variable "day".(½‡ì¿ûÿÿÿÿ
+z
+java:S1488¿"^Immediately return this expression instead of assigning it to the temporary variable "result".(É›Úùÿÿÿÿ
+o
+java:S11042"YMake LEGACY_FORMAT a static final constant or non-public and provide accessors if needed.(Ğ™†ƒ
+I
+java:S14442"3Make this "public static LEGACY_FORMAT" field final(Ğ™†ƒ
+a
+java:S2095ø"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…
+a
+java:S2095¬"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…
+O
+java:S2755§"3Disable access to external entities in XML parsing.(Ö¡°ëúÿÿÿÿ
+n
+java:S30082"XRename this field "LEGACY_FORMAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ™†ƒ
+B
+java:S28854",Make "legacyFormatter" an instance variable.(˜…é¨
+W	java:S125¹"<This block of commented-out lines of code should be removed.(—“•âûÿÿÿÿ
+W
+java:S1854";Remove this useless assignment to local variable "success".(²²•¦ÿÿÿÿÿ
+V	java:S899";Do something with the "boolean" value returned by "delete".(²²•¦ÿÿÿÿÿ
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²²•¦ÿÿÿÿÿ
+H
+java:S1481",Remove this unused "success" local variable.(²²•¦ÿÿÿÿÿ
+W
+java:S1854Ö";Remove this useless assignment to local variable "success".(²²•¦ÿÿÿÿÿ
+V	java:S899Ö";Do something with the "boolean" value returned by "delete".(²²•¦ÿÿÿÿÿ
+j
+java:S4042Ö"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²²•¦ÿÿÿÿÿ
+H
+java:S1481Ö",Remove this unused "success" local variable.(²²•¦ÿÿÿÿÿ
+d
+java:S3986ì"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(©•ôĞûÿÿÿÿ
+A	java:S106²"+Replace this use of System.out by a logger.(ªĞ™Ş
+F	java:S106´"+Replace this use of System.out by a logger.(©üâüûÿÿÿÿ
+A	java:S106·"+Replace this use of System.out by a logger.(–è§
+5
+java:S2119¼"Save and re-use this "Random".(¡Å”¦
+h
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢…·)
+<
+java:S1659Ç" Declare "fs" on a separate line.(˜’†·øÿÿÿÿ
+D	java:S108é")Either remove or fill this block of code.(¬ö¯¼ıÿÿÿÿ
+?	java:S108ó")Either remove or fill this block of code.(‰€üÀ
+K
+java:S1172™"/Remove this unused method parameter "timezone".(«‚İ‚ùÿÿÿÿ
+I
+java:S10684"3Remove this unused "legacyFormatter" private field.(˜…é¨
+E
+java:S1068‚")Remove this unused "rolev" private field.(¬óŒ±øÿÿÿÿ

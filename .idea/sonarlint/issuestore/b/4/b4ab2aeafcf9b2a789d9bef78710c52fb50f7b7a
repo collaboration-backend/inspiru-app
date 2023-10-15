@@ -1,0 +1,14 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "status" 4 times.(ÕàÃ•ùÿÿÿÿ
+j
+java:S1192%"ODefine a constant instead of duplicating this literal "refAcademyRoom" 6 times.(Ü¹·İøÿÿÿÿ
+c
+java:S1192,"HDefine a constant instead of duplicating this literal "startup" 6 times.(ø©„¬ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦Ÿ¿“
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ª»ÛÄşÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ñúÀ
+V	java:S125]"<This block of commented-out lines of code should be removed.(È†¼»ùÿÿÿÿ
+Z
+java:S1155‚">Use isEmpty() to check whether the collection is empty or not.(Üëà¸úÿÿÿÿ

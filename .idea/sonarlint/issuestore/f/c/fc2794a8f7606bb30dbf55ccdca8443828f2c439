@@ -1,0 +1,71 @@
+
+p
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Àå
+b
+java:S1192‰"KDefine a constant instead of duplicating this literal "profitLoss" 4 times.(¯±çì
+l
+java:S1192˜"UDefine a constant instead of duplicating this literal "highGrossMerchandise" 4 times.(õ”û»
+i
+java:S1192Ü"MDefine a constant instead of duplicating this literal "pteEmployees" 4 times.(Ã¦Öúÿÿÿÿ
+b
+java:S1192£"FDefine a constant instead of duplicating this literal "sales" 4 times.(¿ÿ‘ƒûÿÿÿÿ
+d
+java:S1192²"HDefine a constant instead of duplicating this literal "revenue" 4 times.(§’§ˆøÿÿÿÿ
+b
+java:S1192Á"FDefine a constant instead of duplicating this literal "loans" 4 times.(·‰¡æÿÿÿÿÿ
+k
+java:S1192‹"TDefine a constant instead of duplicating this literal "fundraiseInvestment" 4 times.(Í¸•ò
+\
+java:S1192ú"FDefine a constant instead of duplicating this literal "users" 4 times.(„‰!
+c
+java:S1192ë"LDefine a constant instead of duplicating this literal "freelancers" 4 times.(ú¦çÃ
+i
+java:S1192Í"MDefine a constant instead of duplicating this literal "fteEmployees" 4 times.(ÆÏ„ÿıÿÿÿÿ
+\
+java:S1192ò"FDefine a constant instead of duplicating this literal "start" 4 times.(á„ P
+c
+java:S1192—"LDefine a constant instead of duplicating this literal "marketValue" 6 times.(‚Óô×
+u
+java:S1171‘"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171«"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171º"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Ç"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Õ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ä"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ó"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171‚"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171‘"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171·"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Â"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Î"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Û"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ç"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ó"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171€"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171š"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171§"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171³"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ

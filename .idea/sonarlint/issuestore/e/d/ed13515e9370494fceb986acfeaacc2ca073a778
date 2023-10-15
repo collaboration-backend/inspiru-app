@@ -1,0 +1,38 @@
+
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+h
+java:S1192ò"SDefine a constant instead of duplicating this literal "registrationFormId" 3 times.(«
+e
+java:S1192±"IDefine a constant instead of duplicating this literal "memberId" 5 times.(óúÚùÿÿÿÿÿ
+n
+java:S1192Ã"WDefine a constant instead of duplicating this literal "Profile card not found" 4 times.(Å„İŞ
+b
+java:S1192µ"KDefine a constant instead of duplicating this literal " not found" 5 times.(«œĞ
+a
+java:S1192Ã"JDefine a constant instead of duplicating this literal "not found" 4 times.(í´¸
+f
+java:S1192I"PDefine a constant instead of duplicating this literal "Form not found" 11 times.(ÅÂù¦
+^
+java:S1192B"IDefine a constant instead of duplicating this literal "formName" 9 times.(ñÎ”W
+q
+java:S1192;"[Define a constant instead of duplicating this literal "Only DRAFT can be editable" 4 times.(×ÚÚµ
+_
+java:S1192C"IDefine a constant instead of duplicating this literal "jsonForm" 6 times.(àê—ª
+f
+java:S1192ê"ODefine a constant instead of duplicating this literal "bootCampFormId" 3 times.(å³äá
+]
+java:S1192A"GDefine a constant instead of duplicating this literal "formId" 7 times.(«¡¬ 
+i
+java:S1192}"SDefine a constant instead of duplicating this literal "Name Already Exist" 4 times.(‡÷ò‘
+f
+java:S1192D"PDefine a constant instead of duplicating this literal "intakeProgramId" 8 times.(»¹”²
+n
+java:S1192H"SDefine a constant instead of duplicating this literal "Successfully Saved" 4 times.(˜ò´Üúÿÿÿÿ
+g
+java:S1192;"QDefine a constant instead of duplicating this literal "evaluationFormId" 3 times.(×ÚÚµ
+Z
+java:S1611Ó">Remove the parentheses around the "registrationForm" parameter(Ö¾³Ğûÿÿÿÿ
+Z
+java:S1611ì">Remove the parentheses around the "registrationForm" parameter(Ö¾³Ğûÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼ÌËÔ

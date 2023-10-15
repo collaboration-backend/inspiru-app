@@ -1,0 +1,59 @@
+
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤»çÓüÿÿÿÿ
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤»çÓüÿÿÿÿ
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(×†¡ÿÿÿÿÿ
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ºåê
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì½—·ıÿÿÿÿ
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+t
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì½—·ıÿÿÿÿ
+t
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤»çÓüÿÿÿÿ
+u
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+u
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(×†¡ÿÿÿÿÿ
+_
+java:S1192+"IDefine a constant instead of duplicating this literal "message" 12 times.(¦ıš
+b
+java:S1192*"GDefine a constant instead of duplicating this literal "error" 12 times.(Ç—»şÿÿÿÿ
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "data".(¸Ù˜•şÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ÙœÃ'
+:
+java:S1168"$Return an empty map instead of null.(¥¹ï
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+¤
+java:S1130]"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonGenerationException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¥
+java:S1130]"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¤
+java:S1130k"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonGenerationException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¥
+java:S1130k"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¥
+java:S1130”"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonGenerationException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+¦
+java:S1130”"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(‰Ò–Ç
+N
+java:S1135•"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ

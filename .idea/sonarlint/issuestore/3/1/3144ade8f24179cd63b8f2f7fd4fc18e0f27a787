@@ -1,0 +1,44 @@
+
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Æûÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø“ƒø
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùæù’
+<
+java:S1452"&Remove usage of generic wildcard type.(à÷´á
+<
+java:S1452"&Remove usage of generic wildcard type.(¦Œë­
+A
+java:S1452"&Remove usage of generic wildcard type.(ˆÈ„Îüÿÿÿÿ
+<
+java:S1452"&Remove usage of generic wildcard type.(ÃÄŞÏ
+A
+java:S1452"&Remove usage of generic wildcard type.(¤ûÂàüÿÿÿÿ
+A
+java:S1452"&Remove usage of generic wildcard type.( á®îıÿÿÿÿ
+A
+java:S1452"&Remove usage of generic wildcard type.(¤‰¨àûÿÿÿÿ
+A
+java:S1452"&Remove usage of generic wildcard type.(Ó•ìÈùÿÿÿÿ
+<
+java:S1452""&Remove usage of generic wildcard type.(Æ•âª
+A
+java:S1452%"&Remove usage of generic wildcard type.(…Æûÿÿÿÿ
+<
+java:S1452'"&Remove usage of generic wildcard type.(Ø“ƒø
+<
+java:S1452*"&Remove usage of generic wildcard type.(Ùæù’
+A
+java:S1452-"&Remove usage of generic wildcard type.(’¡İÅşÿÿÿÿ
+<
+java:S14520"&Remove usage of generic wildcard type.(Ç ôä
+<
+java:S14523"&Remove usage of generic wildcard type.(„õÃ£
+A
+java:S14526"&Remove usage of generic wildcard type.(¾Ö÷éúÿÿÿÿ
+A
+java:S14529"&Remove usage of generic wildcard type.(ŸóÌ˜üÿÿÿÿ
+A
+java:S1452<"&Remove usage of generic wildcard type.(Šáğ¶ùÿÿÿÿ
+<
+java:S1452?"&Remove usage of generic wildcard type.(ïû£±
+<
+java:S1452A"&Remove usage of generic wildcard type.(Ôí…á

@@ -1,0 +1,27 @@
+
+K
+java:S3740µ"/Provide the parametrized type for this generic.(¤®²Ñýÿÿÿÿ
+p
+java:S1192–"TDefine a constant instead of duplicating this literal "Mark card not found" 6 times.(‡‰Œáûÿÿÿÿ
+c
+java:S1192¨"LDefine a constant instead of duplicating this literal "startupName" 3 times.(‡îºô
+h
+java:S1192"LDefine a constant instead of duplicating this literal "bad request" 7 times.(µ°Ÿóùÿÿÿÿ
+n
+java:S1192Ž"WDefine a constant instead of duplicating this literal "Academy room not found" 4 times.(»ºÂ
+f
+java:S1192½"ODefine a constant instead of duplicating this literal "user not found" 3 times.(’Ž¤–
+˜
+java:S1186å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öì¥
+Z
+java:S2230å"CMake this method "public" or remove the "@Transactional" annotation(öì¥
+Z
+java:S2230ê"CMake this method "public" or remove the "@Transactional" annotation(ÊÉ÷ñ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(™ýâ€ùÿÿÿÿ
+u
+java:S1171Í"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+U
+java:S1155Ý">Use isEmpty() to check whether the collection is empty or not.(•ëÇî
+ñ
+java:S6541¤"ÔA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¡Ù¢Ù¤ to Ù¦Ù¤, Complexity from Ù¡Ù§ to Ù¡Ù¤, Nesting Level from Ù¦ to Ù¢, Number of Variables from Ù¢Ù¨ to Ù¦.(™ýâ€ùÿÿÿÿ

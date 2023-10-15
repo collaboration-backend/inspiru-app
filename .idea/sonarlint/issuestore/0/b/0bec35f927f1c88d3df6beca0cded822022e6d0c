@@ -1,0 +1,7 @@
+
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¡àşüÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú³­üÿÿÿÿ
+y
+java:S1488C"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ú³­üÿÿÿÿ

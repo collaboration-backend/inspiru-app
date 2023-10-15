@@ -1,0 +1,31 @@
+
+p
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨»¯û
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨»¯û
+n
+java:S1192Ý"RDefine a constant instead of duplicating this literal "workshopSessionId" 3 times.(¶ÇÁÕÿÿÿÿÿ
+f
+java:S1192À"ODefine a constant instead of duplicating this literal "unknown error" 11 times.(û´î‰
+d
+java:S1192C"NDefine a constant instead of duplicating this literal "academyRoomId" 4 times.(Éàÿ„
+N
+java:S1854W"8Remove this useless assignment to local variable "list".(‡Ð”ê
+<
+java:S1452e"&Remove usage of generic wildcard type.(¦Ì¸É
+<
+java:S1452t"&Remove usage of generic wildcard type.(ùõýá
+B
+java:S1452€"&Remove usage of generic wildcard type.(ô…ˆåþÿÿÿÿ
+=
+java:S1452¨"&Remove usage of generic wildcard type.(Ùšß²
+B
+java:S1452–"&Remove usage of generic wildcard type.(ËáÏâüÿÿÿÿ
+B
+java:S1452¸"&Remove usage of generic wildcard type.(ê’¼ïøÿÿÿÿ
+<
+java:S1452Æ"&Remove usage of generic wildcard type.(‹±´Q
+=
+java:S1452¯"&Remove usage of generic wildcard type.(Ö³Ýï
+B
+java:S1452Ô"&Remove usage of generic wildcard type.(˜ýŠùÿÿÿÿ

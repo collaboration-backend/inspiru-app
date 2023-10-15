@@ -1,0 +1,52 @@
+
+p
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÛ¿‚üÿÿÿÿ
+o
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùèÐ
+e
+java:S1192w"JDefine a constant instead of duplicating this literal "jsonForm" 12 times.(è•É¬üÿÿÿÿ
+c
+java:S1192v"MDefine a constant instead of duplicating this literal "description" 12 times.(Ÿÿ¨¨
+<
+java:S1452P"&Remove usage of generic wildcard type.(ö¿²­
+A
+java:S1452W"&Remove usage of generic wildcard type.(½Ô¸¨þÿÿÿÿ
+t
+java:S1171t"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Š"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171•"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+V
+java:S2479³":Remove the non-escaped \uFEFF character from this literal.(Ê„á²þÿÿÿÿ
+Q
+java:S2479´":Remove the non-escaped \uFEFF character from this literal.(³ýù…
+V
+java:S2479¶":Remove the non-escaped \uFEFF character from this literal.(ã‚Ãæýÿÿÿÿ
+V
+java:S2479·":Remove the non-escaped \uFEFF character from this literal.(òÓÐüÿÿÿÿ
+u
+java:S1171Ø"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171â"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ì"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ö"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171€"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Š"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171”"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171ž"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+?	java:S108¼")Either remove or fill this block of code.(”ý¾
+B
+java:S1452×"&Remove usage of generic wildcard type.(¨õÓùÿÿÿÿ
+=
+java:S1452Þ"&Remove usage of generic wildcard type.(Æõ„ë

@@ -1,0 +1,34 @@
+
+c
+java:S1192b"MDefine a constant instead of duplicating this literal "unknow error" 7 times.(Ïú û
+h
+java:S1192,"SDefine a constant instead of duplicating this literal "currentUserObject" 20 times.(™·Ñ
+k
+java:S1192©"ODefine a constant instead of duplicating this literal "dueDiligenceId" 4 times.(–€¤Úøÿÿÿÿ
+c	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦œ¼š
+h	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òëÃûÿÿÿÿ
+A
+java:S14524"&Remove usage of generic wildcard type.(òëÃûÿÿÿÿ
+c	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´•µâ
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è°›éùÿÿÿÿ
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â“ğÏüÿÿÿÿ
+A
+java:S1452|"&Remove usage of generic wildcard type.(·àŠôúÿÿÿÿ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àæ¬õüÿÿÿÿ
+B
+java:S1452µ"&Remove usage of generic wildcard type.(àæ¬õüÿÿÿÿ
+i	java:S100À"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª•œƒÿÿÿÿÿ
+d	java:S100Ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ›ÒŞ
+=
+java:S1452Ò"&Remove usage of generic wildcard type.(õ›ÒŞ
+d	java:S100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êû†¶
+i	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â“ğÏüÿÿÿÿ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãØƒÂøÿÿÿÿ
+B
+java:S1452"&Remove usage of generic wildcard type.(ãØƒÂøÿÿÿÿ
+c	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ª™Z
+i	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕò¬ûÿÿÿÿ
+d	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¢Ã—
+i	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½„Íÿÿÿÿÿ
+B
+java:S1452Ì"&Remove usage of generic wildcard type.(½„Íÿÿÿÿÿ

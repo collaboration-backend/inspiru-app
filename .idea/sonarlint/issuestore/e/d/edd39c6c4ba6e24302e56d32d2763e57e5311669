@@ -1,0 +1,85 @@
+
+h
+java:S1192?"RDefine a constant instead of duplicating this literal "postFormTemplates" 4 times.(ËÜçô
+f
+java:S1192ˆ"JDefine a constant instead of duplicating this literal "createdOn" 4 times.(À‚É§ùÿÿÿÿ
+{
+java:S1192Ğ"_Define a constant instead of duplicating this literal "evaluationFormTemplates update" 3 times.(×¹ş¯üÿÿÿÿ
+D
+java:S5411Ó"(Use a primitive boolean expression here.(€˜ûÿÿÿÿ
+D
+java:S5411à"(Use a primitive boolean expression here.(€˜ûÿÿÿÿ
+D
+java:S5411¸"(Use a primitive boolean expression here.(€˜ûÿÿÿÿ
+D
+java:S5411“"(Use a primitive boolean expression here.(€˜ûÿÿÿÿ
+A
+java:S1452<"&Remove usage of generic wildcard type.(«úšÈşÿÿÿÿ
+A
+java:S1452K"&Remove usage of generic wildcard type.(Ï®âĞûÿÿÿÿ
+A
+java:S1452Z"&Remove usage of generic wildcard type.(ş«‡¬ûÿÿÿÿ
+A
+java:S1452i"&Remove usage of generic wildcard type.(—Ëò¦øÿÿÿÿ
+;
+java:S1452w"&Remove usage of generic wildcard type.(Ó¬Ê{
+A
+java:S1452"&Remove usage of generic wildcard type.(‰‡¹±üÿÿÿÿ
+=
+java:S1452"&Remove usage of generic wildcard type.(¸¶Ë‚
+=
+java:S1452"&Remove usage of generic wildcard type.(—ù…è
+=
+java:S1452§"&Remove usage of generic wildcard type.(œ×ñŸ
+=
+java:S1452²"&Remove usage of generic wildcard type.(æ”»¿
+=
+java:S1452Í"&Remove usage of generic wildcard type.(¿êÌÄ
+B
+java:S1452Ú"&Remove usage of generic wildcard type.(ñ§™Îüÿÿÿÿ
+=
+java:S1452ç"&Remove usage of generic wildcard type.(¹¡î«
+n
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÇñÆÕüÿÿÿÿ
+B
+java:S1602õ",Remove useless curly braces around statement(ôºÖH
+=
+java:S1452–"&Remove usage of generic wildcard type.(…ªÂİ
+=
+java:S1452²"&Remove usage of generic wildcard type.(Õœ–‘
+B
+java:S1452½"&Remove usage of generic wildcard type.(Öƒâ±úÿÿÿÿ
+=
+java:S1452Ú"&Remove usage of generic wildcard type.(È¸µ³
+B
+java:S1452â"&Remove usage of generic wildcard type.(ËÇ§şÿÿÿÿ
+=
+java:S1452ë"&Remove usage of generic wildcard type.(ñ­şÜ
+=
+java:S1452ü"&Remove usage of generic wildcard type.(ìº¸ô
+B
+java:S1452"&Remove usage of generic wildcard type.(îë÷üÿÿÿÿ
+=
+java:S1452œ"&Remove usage of generic wildcard type.(¸œ‹İ
+B
+java:S1452­"&Remove usage of generic wildcard type.(‹ÉŒ…ùÿÿÿÿ
+B
+java:S1452»"&Remove usage of generic wildcard type.(ëó„®ÿÿÿÿÿ
+B
+java:S1452Ì"&Remove usage of generic wildcard type.(Ş£¢¡øÿÿÿÿ
+B
+java:S1452Ô"&Remove usage of generic wildcard type.(™º—°şÿÿÿÿ
+=
+java:S1452ß"&Remove usage of generic wildcard type.(¼“µ•
+=
+java:S1452î"&Remove usage of generic wildcard type.(šº‰†
+B
+java:S1452ü"&Remove usage of generic wildcard type.(ƒúàíûÿÿÿÿ
+B
+java:S1452"&Remove usage of generic wildcard type.(ì‹İÿÿÿÿÿ
+B
+java:S1452š"&Remove usage of generic wildcard type.(â¿î úÿÿÿÿ
+B
+java:S1452¬"&Remove usage of generic wildcard type.(ÙŸ©şÿÿÿÿ
+B
+java:S1452µ"&Remove usage of generic wildcard type.(§¸ß†ùÿÿÿÿ

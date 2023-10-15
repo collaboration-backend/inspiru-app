@@ -1,0 +1,96 @@
+
+w
+java:S1192œ"[Define a constant instead of duplicating this literal "                    </div>" 4 times.(Ã’âöúÿÿÿÿ
+®
+java:S1192˜"–Define a constant instead of duplicating this literal "                    <div class=\"spacer\" style=\"width: 100%; height: 30px;\"></div>" 5 times.(´¸ªÆ
+·
+java:S1192¾"ŸDefine a constant instead of duplicating this literal "               <td width=\"298\" colspan=\"2\" valign=\"top\" style=\"width:310.45pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt\">
+" 6 times.(×õ´ó
+u
+java:S1192ê"^Define a constant instead of duplicating this literal "                     </span>
+" 3 times.(Àìøö
+y
+java:S1192¥"bDefine a constant instead of duplicating this literal "                        </div>\r
+" 3 times.(şØ½ş
+n
+java:S1192­"RDefine a constant instead of duplicating this literal "            <tr>
+" 7 times.(‡ô€…øÿÿÿÿ
+h
+java:S1192I"MDefine a constant instead of duplicating this literal "\"data:image" 3 times.(¥ó½æÿÿÿÿÿ
+d
+java:S1192ª"HDefine a constant instead of duplicating this literal "</html>" 3 times.(úÅÈøÿÿÿÿ
+ñ
+java:S1192»"ÙDefine a constant instead of duplicating this literal "               <td width=\"173\" style=\"width:175.25pt;border:solid windowtext 1.0pt;border-top:none;background:#4f0091;padding:0in 5.4pt 0in 5.4pt\">
+" 6 times.(±·Å—
+n
+java:S1192°"WDefine a constant instead of duplicating this literal "               </td>
+" 15 times.(ıÁÚõ
+u
+java:S1192´"YDefine a constant instead of duplicating this literal "                  </p>
+" 16 times.(ÏÚÎÓÿÿÿÿÿ
+i
+java:S1192"MDefine a constant instead of duplicating this literal "        }\r
+" 4 times.(ì²Š‹ùÿÿÿÿ
+o
+java:S1192¹"SDefine a constant instead of duplicating this literal "            </tr>
+" 7 times.(úÒ¶ÿÿÿÿÿ
+^
+java:S1192¢"GDefine a constant instead of duplicating this literal "class=" 8 times.(ñ°İÅ
+ƒ
+java:S1192š"gDefine a constant instead of duplicating this literal "<div style=\"text-align: center;\">\r
+" 3 times.(Ÿ‹Ïûÿÿÿÿ
+‹
+java:S1192î"îDefine a constant instead of duplicating this literal "                  <p><span style=\"font-size:10.0pt;font-family:Symbol\"><span>Â·<span style=\"font:7.0pt &quot;Times New Roman&quot;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+" 8 times.(Íş¥›ùÿÿÿÿ
+`
+java:S1192Í"IDefine a constant instead of duplicating this literal "style=\"" 6 times.(—º”ó
+u
+java:S1192¦"^Define a constant instead of duplicating this literal "                    </div>\r
+" 3 times.(Ÿ³Ì”
+x
+java:S1488ç"\Immediately return this expression instead of assigning it to the temporary variable "body".(ı¾¬¢ÿÿÿÿÿ
+r
+java:S1488ï"[Immediately return this expression instead of assigning it to the temporary variable "btn".(ÈÂè’
+u
+java:S1488ù"^Immediately return this expression instead of assigning it to the temporary variable "footer".(ñ›Í¼
+u
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "r".(ØÉ‰Âıÿÿÿÿ
+S
+java:S4973®"<Strings and Boxed types should be compared using "equals()".(ŠÄ¡Ã
+S
+java:S4973Ü"<Strings and Boxed types should be compared using "equals()".(ŠÄ¡Ã
+g
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¦ã
+S
+java:S18549"8Remove this useless assignment to local variable "welR".(š„ÁÇÿÿÿÿÿ
+T
+java:S18547"9Remove this useless assignment to local variable "logoR".(şĞ½ƒüÿÿÿÿ
+E
+java:S14817"*Remove this unused "logoR" local variable.(şĞ½ƒüÿÿÿÿ
+D
+java:S14819")Remove this unused "welR" local variable.(š„ÁÇÿÿÿÿÿ
+A
+java:S1075Y"&Remove this hard-coded path-delimiter.(‚Æóàÿÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(à¦¿Â
+V
+java:S1854":Remove this useless assignment to local variable "header".(ìç”öûÿÿÿÿ
+T
+java:S1854š"8Remove this useless assignment to local variable "logo".(Ÿ‹Ïûÿÿÿÿ
+E
+java:S1481š")Remove this unused "logo" local variable.(Ÿ‹Ïûÿÿÿÿ
+G
+java:S1481"+Remove this unused "header" local variable.(ìç”öûÿÿÿÿ
+V
+java:S1854Ì":Remove this useless assignment to local variable "header".(ìç”öûÿÿÿÿ
+T
+java:S1854È"8Remove this useless assignment to local variable "logo".(Ÿ‹Ïûÿÿÿÿ
+E
+java:S1481È")Remove this unused "logo" local variable.(Ÿ‹Ïûÿÿÿÿ
+G
+java:S1481Ì"+Remove this unused "header" local variable.(ìç”öûÿÿÿÿ
+P
+java:S2479¥":Remove the non-escaped \u00A0 character from this literal.(¦Ñ_
+Q
+java:S2479˜":Remove the non-escaped \u00A0 character from this literal.(®‡´õ
+Q
+java:S2479™":Remove the non-escaped \u00A0 character from this literal.(ı•µ§

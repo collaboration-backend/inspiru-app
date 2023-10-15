@@ -1,0 +1,19 @@
+
+k
+java:S1192†"ODefine a constant instead of duplicating this literal "parentFolderId" 6 times.(ÃØİ¯ÿÿÿÿÿ
+r
+java:S1192B"WDefine a constant instead of duplicating this literal "invalid parentFolderId" 4 times.(Œ§±¦şÿÿÿÿ
+{
+java:S1192†"_Define a constant instead of duplicating this literal "maximum 200 file/folder in dir" 4 times.(ÃØİ¯ÿÿÿÿÿ
+k
+java:S1192a"UDefine a constant instead of duplicating this literal "invalid fileFolderId" 8 times.(ŞÕ£
+7
+java:S1116C"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116I"Remove this empty statement.(Åñ­õşÿÿÿÿ
+h
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 76 to the 15 allowed.(Ê…¯
+n
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ì˜±çùÿÿÿÿ
+ë
+java:S6541n"ÔA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¡Ù¡Ù¢ to Ù¦Ù¤, Complexity from Ù£Ù¡ to Ù¡Ù¤, Nesting Level from Ù¥ to Ù¢, Number of Variables from Ù¢Ù¥ to Ù¦.(Ê…¯

@@ -1,0 +1,8 @@
+openssl req -x509 -newkey rsa:4096 -sha256 -days 9999 -nodes -keyout dummy.key -out dummy.crt -subj '/CN=localhost' -extensions san -config <( echo '[req]'; echo 'distinguished_name=req'; echo '[san]'; echo 'subjectAltName=DNS:localhost')
+
+openssl pkcs12 -export -name dummy -in dummy.crt -inkey dummy.key -out dummy.p12
+
+keytool -importkeystore -destkeystore dummy.jks -srckeystore dummy.p12 -srcstoretype pkcs12 -alias dummy
+
+alias dummy
+pass changeit

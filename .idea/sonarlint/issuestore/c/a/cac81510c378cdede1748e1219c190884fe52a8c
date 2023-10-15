@@ -1,0 +1,62 @@
+
+u
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(²é‰ßÿÿÿÿÿ
+p
+java:S2293ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äà¿õ
+p
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(´íìÜ
+u
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(•êŞÉûÿÿÿÿ
+o
+java:S1192Ö"XDefine a constant instead of duplicating this literal "Due diligence not found" 7 times.(Ë¦ø»
+g
+java:S1192©"KDefine a constant instead of duplicating this literal "reviewerId" 6 times.(é½áûÿÿÿÿ
+m
+java:S1192—"VDefine a constant instead of duplicating this literal "DueDiligence resubmit" 4 times.(¯¹Âø
+g
+java:S1192®"KDefine a constant instead of duplicating this literal "reviewedOn" 6 times.(Õ»àšÿÿÿÿÿ
+`
+java:S1192À"IDefine a constant instead of duplicating this literal "roleName" 3 times.(÷åëõ
+k
+java:S1192¸"ODefine a constant instead of duplicating this literal "dueDiligenceId" 7 times.(ëø’–üÿÿÿÿ
+_
+java:S1192‹"HDefine a constant instead of duplicating this literal "status" 14 times.(© óì
+g
+java:S1192²"KDefine a constant instead of duplicating this literal "fieldLabel" 8 times.(®ˆÚåıÿÿÿÿ
+b
+java:S1192¿"FDefine a constant instead of duplicating this literal "email" 3 times.(©æ™Ïùÿÿÿÿ
+g
+java:S1192§"KDefine a constant instead of duplicating this literal "reviewedBy" 5 times.(®À¶÷üÿÿÿÿ
+c
+java:S1192“"GDefine a constant instead of duplicating this literal "toMail" 3 times.(«Ñ×œıÿÿÿÿ
+e
+java:S1192¦"IDefine a constant instead of duplicating this literal "comments" 5 times.(ô©Í·ıÿÿÿÿ
+^
+java:S1192Á"GDefine a constant instead of duplicating this literal "roleId" 3 times.(Äü
+d
+java:S1192Â"HDefine a constant instead of duplicating this literal "message" 3 times.(Á«¹óøÿÿÿÿ
+K
+java:S1066ˆ"/Merge this if statement with the enclosing one.(‘¤»¦ùÿÿÿÿ
+F
+java:S1066‰"/Merge this if statement with the enclosing one.(‘·å‹
+h
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ìÃ
+_
+java:S2230½"CMake this method "public" or remove the "@Transactional" annotation(¿Çæùÿÿÿÿ
+i
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÒĞÒ
+i
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¹üìë
+R	java:S125ä"<This block of commented-out lines of code should be removed.(í¡È¤
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(«À¸®
+P
+java:S2864‘"4Iterate over the "entrySet" instead of the "keySet".(Ö÷î…øÿÿÿÿ
+u
+java:S1171¢"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171®"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171¼"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+ê
+java:S6541Ù"ÒA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¨Ù§ to Ù¦Ù¤, Complexity from Ù¡Ù§ to Ù¡Ù¤, Nesting Level from Ù¦ to Ù¢, Number of Variables from Ù¢Ù¤ to Ù¦.(ÒĞÒ

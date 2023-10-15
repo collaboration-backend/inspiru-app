@@ -1,0 +1,7 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ö¹æµ
+A
+java:S1452"&Remove usage of generic wildcard type.(Æ¹ûåÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éìœì
+<
+java:S1452"&Remove usage of generic wildcard type.(Ö¹æµ

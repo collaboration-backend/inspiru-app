@@ -1,0 +1,21 @@
+
+p
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(í˛”ñ
+T
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(ﬂùƒÖ
+V	java:S1255"<This block of commented-out lines of code should be removed.(í®‡ÿ˘ˇˇˇˇ
+E	java:S106E"+Replace this use of System.out by a logger.(ãæ•Å˙ˇˇˇˇ
+P	java:S125Z"<This block of commented-out lines of code should be removed.(›”x
+Q	java:S125w"<This block of commented-out lines of code should be removed.(Êµ´è
+Q	java:S125Å"<This block of commented-out lines of code should be removed.(›”x
+R	java:S125à"<This block of commented-out lines of code should be removed.(Êµ´è
+Q	java:S125ó"<This block of commented-out lines of code should be removed.(›”x
+i
+java:S3776†"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÇÙ¡ó
+R	java:S125Å"<This block of commented-out lines of code should be removed.(Êµ´è
+Q	java:S125ã"<This block of commented-out lines of code should be removed.(›”x
+R	java:S125í"<This block of commented-out lines of code should be removed.(Êµ´è
+Q	java:S125œ"<This block of commented-out lines of code should be removed.(›”x
+Q	java:S125€"<This block of commented-out lines of code should be removed.(›”x
+Q	java:S125Ì"<This block of commented-out lines of code should be removed.(›”x
+Q	java:S125˛"<This block of commented-out lines of code should be removed.(›”x

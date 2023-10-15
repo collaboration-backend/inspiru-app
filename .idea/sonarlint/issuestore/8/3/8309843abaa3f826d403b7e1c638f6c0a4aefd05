@@ -1,0 +1,56 @@
+
+«
+java:S1192Å"“Define a constant instead of duplicating this literal "{\"metadata\":{\"name\":\"\",\"description\":\"\"},\"form\":[{\"fieldGroup\":[]}]}" 6 times.(ƒ¥‹
+q
+java:S1192Œ"UDefine a constant instead of duplicating this literal "invalid submissionId" 3 times.(ëªŒ„ıÿÿÿÿ
+f
+java:S1192."KDefine a constant instead of duplicating this literal "Submission" 3 times.(ä˜Ì¶ıÿÿÿÿ
+]
+java:S1192+"GDefine a constant instead of duplicating this literal "Intake" 3 times.(³½Ü®
+’
+java:S1192I"wDefine a constant instead of duplicating this literal "User has already submitted evaluation for this startup" 3 times.(Á„¤’ûÿÿÿÿ
+F
+java:S1066º"/Merge this if statement with the enclosing one.(›¦õ
+x
+java:S1488Ú"\Immediately return this expression instead of assigning it to the temporary variable "data".(§ñµıÿÿÿÿ
+h
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(“¡ÓÓ
+A
+java:S1481A"&Remove this unused "c" local variable.(ª››ıÿÿÿÿ
+<
+java:S2111S"!Use "BigDecimal.valueOf" instead.(ÀŸÄÿúÿÿÿÿ
+>	java:S108\")Either remove or fill this block of code.(”ı¾
+h
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(²¢ÖÎ
+B
+java:S1481’"&Remove this unused "c" local variable.(ª››ıÿÿÿÿ
+D	java:S108§")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+B
+java:S1481¶"&Remove this unused "u" local variable.(˜¬¾ÿÿÿÿÿ
+L
+java:S1751¸"5Remove this "break" statement or make it conditional.(›ûä·
+i
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Í¼Âó
+B
+java:S1481ì"&Remove this unused "u" local variable.(İÌ·ùÿÿÿÿ
+L
+java:S1751î"5Remove this "break" statement or make it conditional.(›ûä·
+B
+java:S1481ƒ"&Remove this unused "u" local variable.(İÌ·ùÿÿÿÿ
+L
+java:S1751…"5Remove this "break" statement or make it conditional.(›ûä·
+D	java:S108²")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+D	java:S108ë")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(Õöàºûÿÿÿÿ
+D	java:S108Ä")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+D	java:S108ğ")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+h
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(½êÇ
+D	java:S108¿")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+D	java:S108õ")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+ñ
+java:S6541"ÔA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù¡Ù¢Ù¦ to Ù¦Ù¤, Complexity from Ù¡Ù§ to Ù¡Ù¤, Nesting Level from Ù¥ to Ù¢, Number of Variables from Ù¤Ù¦ to Ù¦.(Õöàºûÿÿÿÿ
+é
+java:S6541~"ÒA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from Ù§Ù© to Ù¦Ù¤, Complexity from Ù¡Ù¥ to Ù¡Ù¤, Nesting Level from Ù£ to Ù¢, Number of Variables from Ù¢Ù¦ to Ù¦.(²¢ÖÎ

@@ -1,0 +1,210 @@
+
+a	java:S112Ω
+"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+a	java:S112ä"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293◊"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293«"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293∏"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293ÿ	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+p
+java:S2293¢
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú‘—∏
+d
+java:S1192“"HDefine a constant instead of duplicating this literal "intake_" 9 times.(‡óÙÚˇˇˇˇˇ
+a
+java:S1192ª"JDefine a constant instead of duplicating this literal "fileName" 13 times.(Ωâ„∆
+f
+java:S1192π"JDefine a constant instead of duplicating this literal "filePath" 15 times.(§≥Ö◊¯ˇˇˇˇ
+d
+java:S1192∫"MDefine a constant instead of duplicating this literal "inputStream" 10 times.(Ï¡ô£
+_
+java:S1192Æ"IDefine a constant instead of duplicating this literal "startup_" 7 times.(êÜ∆
+x
+java:S1488ã"\Immediately return this expression instead of assigning it to the temporary variable "data".(∏Ÿòï˛ˇˇˇˇ
+x
+java:S1488ƒ"\Immediately return this expression instead of assigning it to the temporary variable "data".(∏Ÿòï˛ˇˇˇˇ
+x
+java:S1488‘"\Immediately return this expression instead of assigning it to the temporary variable "data".(∏Ÿòï˛ˇˇˇˇ
+Y
+java:S1163ä"=Refactor this code to not throw exceptions in finally blocks.(“Ç“È¸ˇˇˇˇ
+P
+java:S1143ä"4Remove this throw statement from this finally block.(“Ç“È¸ˇˇˇˇ
+¨
+java:S4449Ê"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(∑Ü≤Ø¸ˇˇˇˇ
+¨
+java:S4449ˇ"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+¨
+java:S4449ˇ"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+¨
+java:S4449‹"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+¨
+java:S4449ˇ	"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(≤ì‰Ú˛ˇˇˇˇ
+¨
+java:S4449˜"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+ß
+java:S4449ﬁ"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ºÑˆ¸
+´
+java:S4449t"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(äú”è˙ˇˇˇˇ
+¨
+java:S4449Ò"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+¨
+java:S4449â"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(Îùçﬂ¯ˇˇˇˇ
+´
+java:S4449W"èAnnotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(äê‚âˇˇˇˇˇ
+v
+java:S4144«"`Update this method so that its implementation is not identical to "getProfilPic" on line Ÿ°Ÿ¶Ÿ§.(˝∂˙
+M
+java:S1854]"7Remove this useless assignment to local variable "owr".(°ßë‹
+>
+java:S1481]"(Remove this unused "owr" local variable.(°ßë‹
+Q	java:S125g"<This block of commented-out lines of code should be removed.( ñßÄ
+M
+java:S1854z"7Remove this useless assignment to local variable "owr".(°ßë‹
+>
+java:S1481z"(Remove this unused "owr" local variable.(°ßë‹
+R	java:S125Ñ"<This block of commented-out lines of code should be removed.(Òÿæû
+~
+java:S4087ô"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Êå’Æ˘ˇˇˇˇ
+R	java:S125Á"<This block of commented-out lines of code should be removed.(ˇ˚é•
+R	java:S125ö"<This block of commented-out lines of code should be removed.(ˇ˚é•
+F	java:S106∞"+Replace this use of System.out by a logger.(ëÀÕŸ¯ˇˇˇˇ
+F	java:S106ƒ"+Replace this use of System.out by a logger.(Õø›Æ˝ˇˇˇˇ
+N
+java:S1854‡"7Remove this useless assignment to local variable "owr".(°ßë‹
+?
+java:S1481‡"(Remove this unused "owr" local variable.(°ßë‹
+R	java:S125Î"<This block of commented-out lines of code should be removed.(≤ÆÂÔ
+N
+java:S1854à"7Remove this useless assignment to local variable "owr".(°ßë‹
+Q
+java:S1172Ú"5Remove this unused method parameter "dueDiligenceId".(ÛåíÍ˚ˇˇˇˇ
+R	java:S125Å"<This block of commented-out lines of code should be removed.(®ÑﬁÈ
+W	java:S125É"<This block of commented-out lines of code should be removed.(ü∆äÜ¸ˇˇˇˇ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(Ú™Úå˚ˇˇˇˇ
+?
+java:S1481à"(Remove this unused "owr" local variable.(°ßë‹
+u
+java:S1171é"YMove the contents of this initializer to a standard constructor or to field initializers.(“Ã‚ñ¯ˇˇˇˇ
+;
+java:S1168ô"$Return an empty map instead of null.(•πÔç
+W	java:S125ú"<This block of commented-out lines of code should be removed.(üıÀÉ˚ˇˇˇˇ
+F	java:S106∏"+Replace this use of System.out by a logger.(ëÀÕŸ¯ˇˇˇˇ
+u
+java:S1171«"YMove the contents of this initializer to a standard constructor or to field initializers.(“Ã‚ñ¯ˇˇˇˇ
+N
+java:S1854‚"7Remove this useless assignment to local variable "owr".(°ßë‹
+?
+java:S1481‚"(Remove this unused "owr" local variable.(°ßë‹
+W	java:S125Ï"<This block of commented-out lines of code should be removed.(Å’Ïò˘ˇˇˇˇ
+b
+java:S1172˙"KRemove these unused method parameters "academyRoomId", "workshopSessionId".(Àëä¯
+R	java:S125ö"<This block of commented-out lines of code should be removed.(ˇ˚é•
+A	java:S106µ"+Replace this use of System.out by a logger.(≥âìá
+N
+java:S1854Í"7Remove this useless assignment to local variable "owr".(°ßë‹
+J
+java:S1172ÿ"3Remove this unused method parameter "assignmentId".(ƒ∑±æ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(÷©–È˛ˇˇˇˇ
+?
+java:S1481Í"(Remove this unused "owr" local variable.(°ßë‹
+W	java:S125ı"<This block of commented-out lines of code should be removed.(œﬂí˛ˇˇˇˇ
+r
+java:S1172á"[Remove these unused method parameters "academyRoomId", "workshopSessionId", "assignmentId".(∫ö˘é
+R	java:S125®"<This block of commented-out lines of code should be removed.(ˇ˚é•
+N
+java:S1854—"7Remove this useless assignment to local variable "owr".(°ßë‹
+?
+java:S1481—"(Remove this unused "owr" local variable.(°ßë‹
+u
+java:S1171◊"YMove the contents of this initializer to a standard constructor or to field initializers.(“Ã‚ñ¯ˇˇˇˇ
+;
+java:S1168·"$Return an empty map instead of null.(•πÔç
+R	java:S125Â"<This block of commented-out lines of code should be removed.(Ωåú◊
+e
+java:S4042á"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ﬁ˙‹ˆ
+L
+java:S1172ä"0Remove this unused method parameter "startupId".(ïå±û¯ˇˇˇˇ
+R	java:S125™"<This block of commented-out lines of code should be removed.(ˇ˚é•
+N
+java:S1854˚"7Remove this useless assignment to local variable "owr".(°ßë‹
+R	java:S125Ω"<This block of commented-out lines of code should be removed.(ﬂ»Ëì
+W	java:S125ﬁ"<This block of commented-out lines of code should be removed.(⁄€⁄Ò˚ˇˇˇˇ
+?
+java:S1481˚"(Remove this unused "owr" local variable.(°ßë‹
+Q	java:S125Ö"<This block of commented-out lines of code should be removed.(“úñ;
+=
+java:S1075µ"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+=
+java:S1075µ"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+R	java:S125…"<This block of commented-out lines of code should be removed.(ˇ˚é•
+N
+java:S1854ı"7Remove this useless assignment to local variable "owr".(°ßë‹
+N
+java:S1172Â"2Remove this unused method parameter "emailDomain".(ó¡¸È˙ˇˇˇˇ
+?
+java:S1481ı"(Remove this unused "owr" local variable.(°ßë‹
+Q	java:S125ˇ"<This block of commented-out lines of code should be removed.(“úñ;
+H
+java:S1172§",Remove this unused method parameter "email".(í∏Ì¡˘ˇˇˇˇ
+R	java:S125®"<This block of commented-out lines of code should be removed.(é≠øä
+=
+java:S1075∏"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+=
+java:S1075∏"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+R	java:S125Ã"<This block of commented-out lines of code should be removed.(ˇ˚é•
+N
+java:S1854á	"7Remove this useless assignment to local variable "owr".(°ßë‹
+?
+java:S1481á	"(Remove this unused "owr" local variable.(°ßë‹
+Q	java:S125ë	"<This block of commented-out lines of code should be removed.(àµé8
+I
+java:S1135≈	"2Complete the task associated to this TODO comment.(áÒ≈º
+=
+java:S1075—	"&Remove this hard-coded path-delimiter.(ÃèœÆ
+=
+java:S1075Î	"&Remove this hard-coded path-delimiter.(‰¢‡Ñ
+N
+java:S1854á
+"7Remove this useless assignment to local variable "owr".(°ßë‹
+?
+java:S1481á
+"(Remove this unused "owr" local variable.(°ßë‹
+=
+java:S1075ú
+"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+=
+java:S1075ú
+"&Remove this hard-coded path-delimiter.(ù…›ﬂ
+B
+java:S1075«
+"&Remove this hard-coded path-delimiter.(ê„å˚ˇˇˇˇˇ
+B
+java:S1075÷
+"&Remove this hard-coded path-delimiter.(≠ÿàÌ˘ˇˇˇˇ
+A	java:S106Î
+"+Replace this use of System.out by a logger.(∆¿˚˝
+B
+java:S1075¸
+"&Remove this hard-coded path-delimiter.(ÖÜ°ö˛ˇˇˇˇ
+O
+java:S1068E"4Remove this unused "minioAssignments" private field.(Ù∏⁄ﬁ˙ˇˇˇˇ
+S
+java:S1068G"8Remove this unused "minioProgressReports" private field.(◊˚“ù¸ˇˇˇˇ

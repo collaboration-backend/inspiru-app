@@ -1,0 +1,57 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ÑË„
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨»¯û
+h
+java:S1192Î"LDefine a constant instead of duplicating this literal "custom-city" 4 times.(ÿë¯æüÿÿÿÿ
+y
+java:S1192Ê"]Define a constant instead of duplicating this literal "intakeProgramId|assessmentId" 5 times.(ü“´©ÿÿÿÿÿ
+k
+java:S1192Ğ"ODefine a constant instead of duplicating this literal "custom-country" 4 times.(Ç‘ß øÿÿÿÿ
+l
+java:S1192¦"PDefine a constant instead of duplicating this literal "intakeProgramId" 7 times.(Ê¥öÿÿÿÿÿ
+A
+java:S1452a"&Remove usage of generic wildcard type.(ê’¥¡ûÿÿÿÿ
+A
+java:S1452q"&Remove usage of generic wildcard type.(å¶Ûöüÿÿÿÿ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.(Ä§øü
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Œˆšşùÿÿÿÿ
+M
+java:S1172Å"1Remove this unused method parameter "assetToken".(Œˆšşùÿÿÿÿ
+B
+java:S1452…"&Remove usage of generic wildcard type.(ûóíõÿÿÿÿÿ
+=
+java:S1452¥"&Remove usage of generic wildcard type.(È“Ì„
+<
+java:S1452’"&Remove usage of generic wildcard type.(§‡‹
+B
+java:S1452Î"&Remove usage of generic wildcard type.(àúûùÿÿÿÿ
+B
+java:S1452Ú"&Remove usage of generic wildcard type.(ôÀîÑûÿÿÿÿ
+=
+java:S1452ä"&Remove usage of generic wildcard type.(¡¬¤
+=
+java:S1452í"&Remove usage of generic wildcard type.(†®ñŞ
+=
+java:S1452ú"&Remove usage of generic wildcard type.(´êº¾
+=
+java:S1452…"&Remove usage of generic wildcard type.(é±€…
+B
+java:S1452œ"&Remove usage of generic wildcard type.(šÏÂŒúÿÿÿÿ
+=
+java:S1452¥"&Remove usage of generic wildcard type.(óÇÙë
+B
+java:S1452­"&Remove usage of generic wildcard type.(Åëš¼ùÿÿÿÿ
+=
+java:S1452µ"&Remove usage of generic wildcard type.(”òÈ‡
+B
+java:S1452Ë"&Remove usage of generic wildcard type.(ø˜¹ùÿÿÿÿÿ
+B
+java:S1452Ò"&Remove usage of generic wildcard type.(•˜ÖÉùÿÿÿÿ
+B
+java:S1452Ú"&Remove usage of generic wildcard type.(Œêòüÿÿÿÿ
+=
+java:S1452â"&Remove usage of generic wildcard type.(©ôÂ©

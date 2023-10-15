@@ -1,0 +1,25 @@
+
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(“²½ýùÿÿÿÿ
+d
+java:S1192«"MDefine a constant instead of duplicating this literal "sessionStart" 4 times.(ú’Ïô
+i
+java:S1192z"SDefine a constant instead of duplicating this literal "currentUserObject" 13 times.(ðÿº¡
+\
+java:S1192?"FDefine a constant instead of duplicating this literal "email" 3 times.(ÎÞºÝ
+]
+java:S1192´"GDefine a constant instead of duplicating this literal "slotId" 3 times.(µ‡Û+
+h
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(·Ç–¯
+t
+java:S1171M"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+B
+java:S1452˜"&Remove usage of generic wildcard type.(ù¢—½ùÿÿÿÿ
+u
+java:S1171Ö"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171³"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171Ì"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+u
+java:S1171î"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ

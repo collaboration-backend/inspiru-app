@@ -1,0 +1,13 @@
+
+_
+java:S1192C"IDefine a constant instead of duplicating this literal "roleName" 3 times.(ª°Œö
+e
+java:S1192D"ODefine a constant instead of duplicating this literal "invitedStartup" 4 times.( ’ğò
+b
+java:S1192ó"FDefine a constant instead of duplicating this literal "start" 4 times.(İÊÿûÿÿÿÿ
+n
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(‹”ùûúÿÿÿÿ
+W	java:S125ß"<This block of commented-out lines of code should be removed.( ³İ ıÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(™êé¥
+R	java:S125"<This block of commented-out lines of code should be removed.(š«ÔÅ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(Í£‰“

@@ -1,0 +1,155 @@
+[{
+        "type": "custom-progress-report-stepper",
+        "fieldGroup": [{
+                "templateOptions": {
+                    "_title": "Investment Opportunities",
+                    "label": ""
+                },
+                "fieldGroup": [{
+                        "key": "investmentOpportunities.investment",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "1",
+                        "templateOptions": {
+                            "_title": "I. Fundraise/ Investment(Amount in SAR)",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "investmentOpportunities.marketValue",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "5",
+                        "templateOptions": {
+                            "_title": "II. Marketvalue(Amount in SAR)",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "investmentOpportunities.sales",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "2",
+                        "templateOptions": {
+                            "_title": "III. Sales",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "investmentOpportunities.revenue",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "2",
+                        "templateOptions": {
+                            "_title": "IV. Revenue",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "investmentOpportunities.loans",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": 3,
+                        "templateOptions": {
+                            "_title": "V. Loans",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }
+                ]
+            }, {
+                "templateOptions": {
+                    "_title": "Customer",
+                    "label": ""
+                },
+                "fieldGroup": [{
+                        "key": "customer.increase",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "2",
+                        "templateOptions": {
+                            "_title": "I. Increase(%)",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "customer.retentionRate",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "4",
+                        "templateOptions": {
+                            "_title": "II. Retention Rate",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }, {
+                        "key": "customer.numberOfCustomers",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "4",
+                        "templateOptions": {
+                            "_title": "III. Number of Customers",
+                            "required": true,
+                            "type": "number"
+                        }
+                    }
+                ]
+            }, {
+                "templateOptions": {
+                    "_title": "Public Relation",
+                    "label": ""
+                },
+                "fieldGroup": [{
+                        "key": "publicRelation.campaigns",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "aaa",
+                        "templateOptions": {
+                            "_title": "I. Campaigns",
+                            "required": true
+                        }
+                    }, {
+                        "key": "publicRelation.events",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": "sss",
+                        "templateOptions": {
+                            "_title": "II. Events",
+                            "required": true
+                        }
+                    }, {
+                        "key": "publicRelation.newsClippings",
+                        "type": "custom-progress-report-file-input",
+                        "defaultValue": "ddd",
+                        "templateOptions": {
+                            "_title": "III. News Clippings"
+                        }
+                    }
+                ]
+            }, {
+                "templateOptions": {
+                    "_title": "Partnership",
+                    "label": ""
+                },
+                "fieldGroup": [{
+                        "key": "partnership.partner1",
+                        "type": "custom-progress-report-input",
+                        "defaultValue": 3,
+                        "templateOptions": {
+                            "_title": "Partner 1",
+                            "required": true
+                        }
+                    }, {
+                        "key": "partnership.partner1Status",
+                        "type": "custom-progress-report-select-input",
+                        "defaultValue": "Status2",
+                        "templateOptions": {
+                            "_title": "Partner 1 status",
+                            "required": true,
+                            "options": [{
+                                    "value": "Status1",
+                                    "label": "Status1",
+                                    "key": "Status1"
+                                }, {
+                                    "value": "Status2",
+                                    "label": "Status2",
+                                    "key": "Status2"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

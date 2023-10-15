@@ -1,0 +1,12 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(› ö¿úÿÿÿÿ
+k	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‰ÿúÿÿÿÿ
+h
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‹¡¯Ø
+1
+java:S3626j"Remove this redundant jump.(ûÁİ…
+1
+java:S3626m"Remove this redundant jump.(ûÁİ…
+K
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(”§½Ô
